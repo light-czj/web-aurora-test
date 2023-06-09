@@ -1,0 +1,4807 @@
+{
+	"brand": "aurora",
+	"list": [
+		{
+			"id": "A_fold",
+			"model": "Aurora_A&B_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb33-34_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "A_fold",
+			"model": "Aurora_A&B_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb33-34_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "I_fold",
+			"model": "Aurora_A&B_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb33-34_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "H_fold",
+			"model": "Aurora_A&B_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb33-34_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "B_fold",
+			"model": "Aurora_A&B_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb33-34_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33-34_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "C_fold",
+			"model": "Aurora_C&D_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb35-36_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_stents",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "D_fold",
+			"model": "Aurora_C&D_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb35-36_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_stents",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35-36_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "E_fold",
+			"model": "Aurora_E_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,57,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb37_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_010_clasp",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_010_top",
+					"name": "",
+					"color": "141414FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_button",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_off",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_stents",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "F_fold",
+			"model": "Aurora_F_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb38_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_010_clasp",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_010_top",
+					"name": "",
+					"color": "141414FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_button",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_off",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_shaft",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_stents",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "G_fold",
+			"model": "Aurora_G_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb61_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_rib",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "J_fold",
+			"model": "Aurora_J_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb64_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_010_clasp",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_010_top",
+					"name": "",
+					"color": "141414FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_button",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_off",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_stents",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "K_fold",
+			"model": "Aurora_K_fold_v1",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,57,0",
+			"rotation": "0,0,180",
+			"scale": 0.05,
+			"scaleRatio": 1000,
+			"nodes": [
+				{
+					"node": "Umb65_010_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_010_clasp",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_010_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_010_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_010_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_011_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_011_plastic_translucent_black",
+					"name": "",
+					"color": "070707B2",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_011_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "A",
+			"model": "Aurora_A_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb33_100_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_off",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_off_plastic_pl_white",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_plastic_pl_black",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_plastic_pl_white",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_print_other",
+					"name": "",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_tie_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_tie_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb33_100_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "B",
+			"model": "Aurora_B_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb34_100_button",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_off",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_rib",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_tie_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_tie_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "C",
+			"model": "Aurora_C_v2",
+			"suffix": "",
+			"uvIndex": 2,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb35_100_button",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_off",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_plastic_pl_black",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_tie_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_tie_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_tip",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb35_100_top",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "D",
+			"model": "D_20220512_addButton_4",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb36_100_metal_common003",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_off001",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_plastic_pl_black001",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_print001",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_rib001",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_shaft001",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_spring001",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_stents001",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb34_100_button001",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_tie001",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_tie_line01001",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_tie_metal_common001",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_tip001",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb36_100_top001",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "E",
+			"model": "Aurora_E_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb37_100_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_button",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_metal_common",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_metal_white",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_off",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_plastic_pl_black",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_print",
+					"name": "Umb",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_rib",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_shaft",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_stents",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_tie",
+					"name": "Umb",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_tie_line01",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_tie_metal_common",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_100_top",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "F",
+			"model": "Aurora_F_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb38_100_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_button",
+					"name": "",
+					"color": "FFFFFF38",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_metal_white",
+					"name": "",
+					"color": "F2F2F2FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_off",
+					"name": "",
+					"color": "FFFFFF38",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_plastic_pl_black",
+					"name": "",
+					"color": "0C0C0CFF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_print",
+					"name": "Umb",
+					"color": "969696FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_shaft",
+					"name": "",
+					"color": "080808FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_stents",
+					"name": "",
+					"color": "080808FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_tie",
+					"name": "Umb",
+					"color": "969696FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_tie_line01",
+					"name": "",
+					"color": "070707FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_tie_metal_common",
+					"name": "",
+					"color": "151515FF",
+					"active": ""
+				},
+				{
+					"node": "Umb38_100_top",
+					"name": "",
+					"color": "141414FF",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "H",
+			"model": "Aurora_H_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb62_100_metal_common",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_off",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_off_plastic_pl_white",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_plastic_pl_black",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_plastic_pl_white",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_print",
+					"name": "Umb",
+					"position": "",
+					"sun": "true",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_print_other",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_rib",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_shaft",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_tie",
+					"name": "Umb",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_tie_line01",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_tie_metal_common",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_tip",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb62_100_top",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "I",
+			"model": "Aurora_I_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb63_100_button",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_metal_common",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_off",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_print",
+					"name": "Umb",
+					"position": "",
+					"sun": "true",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_rib",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_shaft",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_tie",
+					"name": "Umb",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_tie_line01",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_tie_metal_common",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_tip",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb63_100_top",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "G",
+			"model": "Aurora_G_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb61_100_blackblack",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_button",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_metal_common",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_off",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_plastic_pl_black",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_print",
+					"name": "Umb",
+					"position": "",
+					"sun": "true",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_rib",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_shaft",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_tie",
+					"name": "Umb",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_tie_line01",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_tie_metal_common",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_tip",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb61_100_top",
+					"name": "",
+					"position": "",
+					"sun": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "J",
+			"model": "Aurora_J_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb64_100_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_button",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_metal_common",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_metal_white",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_off",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_plastic_pl_black",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_print",
+					"name": "Umb",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_rib",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_shaft",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_stents",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_tie",
+					"name": "Umb",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_tie_line01",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_tie_metal_common",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_100_top",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "K",
+			"model": "Aurora_K_v2",
+			"suffix": "",
+			"uvIndex": 3,
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 0.5,
+			"scaleRatio": 100,
+			"nodes": [
+				{
+					"node": "Umb65_100_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_button",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_metal_white",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_off",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_plastic_pl_black",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_print",
+					"name": "Umb",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_rib_metal_black",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_rib_metal_common",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_rib_plastic_me_black",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_shaft",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_tie",
+					"name": "Umb",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_tie_line01",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_tie_metal_common",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_100_top",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "J_sleeve",
+			"model": "Aurora_J_sleeve",
+			"suffix": ".glb",
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "Umb64_001_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_001_line",
+					"name": "",
+					"color": "3C3C3CFF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "Umb64_001_printSleeve",
+					"name": "Sleeve",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_button",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_off",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb64_011_stents",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "F_sleeve",
+			"model": "Aurora_F_sleeve",
+			"suffix": ".glb",
+			"position": "0,65,0",
+			"rotation": "0,0,180",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "Umb38_011_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_shaft",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_stents",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_001_printUmb",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_button",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_011_off",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_001_line01",
+					"name": "",
+					"color": "070707FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_001_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb38_001_printSleeve",
+					"name": "Sleeve",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "K_sleeve",
+			"model": "Aurora_K_sleeve",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,0,180",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "Umb65_001_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_001_line",
+					"name": "",
+					"color": "3C3C3CFF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "Umb65_001_printSleeve",
+					"name": "Sleeve",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_001_printUmb",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_011_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_011_plastic_translucent_black",
+					"name": "",
+					"color": "070707B2",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Umb65_011_shaft",
+					"name": "",
+					"color": "151515FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "E_sleeve",
+			"model": "Aurora_E_sleeve",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,0,180",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "Umb37_001_blackblack",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_001_line",
+					"name": "",
+					"color": "3C3C3CFF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "Umb37_001_printSleeve",
+					"name": "Sleeve",
+					"color": "969696FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_001_printUmb",
+					"name": "",
+					"color": "969696FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_button",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_metal_common",
+					"name": "",
+					"color": "C3C3C3FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_off",
+					"name": "",
+					"color": "FFFFFF38",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_rib",
+					"name": "",
+					"color": "0C0C0CFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_shaft",
+					"name": "",
+					"color": "3C3C3CFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "Umb37_011_stents",
+					"name": "",
+					"color": "080808FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs1",
+			"model": "UmbHandle_Aurora_leather_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_J01_leather_02",
+					"name": "",
+					"color": "8b7c60FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line1",
+					"name": "",
+					"color": "8b7c60FF",
+					"tex": "Line.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line2",
+					"name": "",
+					"color": "8b7c60FF",
+					"tex": "Aurora_leather_J_line2.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs2",
+			"model": "UmbHandle_Aurora_leather_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_J01_leather_02",
+					"name": "",
+					"color": "000511FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line1",
+					"name": "",
+					"color": "04143aFF",
+					"tex": "Line.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line2",
+					"name": "",
+					"color": "04143aFF",
+					"tex": "Aurora_leather_J_1_line2.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs3",
+			"model": "UmbHandle_Aurora_leather_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_J01_leather_02",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line1",
+					"name": "",
+					"color": "000000FF",
+					"tex": "Line.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line2",
+					"name": "",
+					"color": "000000FF",
+					"tex": "Aurora_leather_J_line2.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs4",
+			"model": "UmbHandle_Aurora_leather_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_J01_leather_02",
+					"name": "",
+					"color": "600000FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line1",
+					"name": "",
+					"color": "702424FF",
+					"tex": "Line.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_line2",
+					"name": "",
+					"color": "702424FF",
+					"tex": "Aurora_leather_J_line2.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_J01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs7",
+			"model": "UmbHandle_Aurora_wood_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_J01_wood",
+					"name": "",
+					"color": "7c5e36FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_J01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs6",
+			"model": "UmbHandle_Aurora_wood_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_J01_wood",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "wood47.png",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_J01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs5",
+			"model": "UmbHandle_Aurora_wood_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_J01_wood",
+					"name": "",
+					"color": "292929FF",
+					"tex": "wood005_Ako_Diffuse.png",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_J01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs8",
+			"model": "UmbHandle_Aurora_wood_J02",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_J02",
+					"name": "",
+					"color": "DFD5BBFF",
+					"tex": "wood_09.jpg",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hs9",
+			"model": "UmbHandle_Aurora_wood_J03",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_J03",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "Aurora_J_wood_03.jpg",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hb1",
+			"model": "UmbHandle_Aurora_other_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_other_J01_metal_dark",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_other_J01",
+					"name": "",
+					"color": "110905FF",
+					"tex": "wood0015.png",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hb2",
+			"model": "UmbHandle_Aurora_other_J02",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_other_J02_metal_dark",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_other_J02",
+					"name": "",
+					"color": "090909FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_other_J02_line",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "Aurora_Thick_J_Line.png",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hb3",
+			"model": "UmbHandle_Aurora_other_J03",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_other_J03_metal_dark",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_other_J03",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hb4",
+			"model": "UmbHandle_Aurora_other_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_other_J01_metal_dark",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_other_J01",
+					"name": "",
+					"color": "CCCCCCFF",
+					"tex": "wood47.png",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hb5",
+			"model": "UmbHandle_Aurora_other_J01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_other_J01_metal_dark",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_other_J01",
+					"name": "",
+					"color": "AC9481FF",
+					"tex": "wood005_Ako_Diffuse.png",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm1",
+			"model": "UmbHandle_Aurora_leather_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_Q01",
+					"name": "",
+					"color": "9d8c6eFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_belt",
+					"name": "",
+					"color": "9d8c6eFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_line01",
+					"name": "",
+					"color": "a7a7a7FF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_plastic",
+					"name": "",
+					"color": "60563CFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm2",
+			"model": "UmbHandle_Aurora_leather_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_Q01",
+					"name": "",
+					"color": "000511FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_belt",
+					"name": "",
+					"color": "000511FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_line01",
+					"name": "",
+					"color": "040D22FF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_plastic",
+					"name": "",
+					"color": "60563CFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm3",
+			"model": "UmbHandle_Aurora_leather_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_Q01",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_belt",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_line01",
+					"name": "",
+					"color": "000000FF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_plastic",
+					"name": "",
+					"color": "60563CFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm4",
+			"model": "UmbHandle_Aurora_leather_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_leather_Q01",
+					"name": "",
+					"color": "631f21FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_belt",
+					"name": "",
+					"color": "600000FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_line01",
+					"name": "",
+					"color": "631f21FF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_leather_Q01_plastic",
+					"name": "",
+					"color": "60563CFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm5",
+			"model": "UmbHandle_Aurora_plastic_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01",
+					"name": "",
+					"color": "0B0B0BFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01_belt",
+					"name": "",
+					"color": "0B0B0BFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm6",
+			"model": "UmbHandle_Aurora_plastic_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01",
+					"name": "",
+					"color": "878787FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01_belt",
+					"name": "",
+					"color": "878787FF",
+					"tex": "transparent.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm7",
+			"model": "UmbHandle_Aurora_plastic_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01",
+					"name": "",
+					"color": "878787FF",
+					"tex": "transparent.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01_belt",
+					"name": "",
+					"color": "878787FF",
+					"tex": "transparent.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_plastic_Q01_metal_common",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm8",
+			"model": "UmbHandle_Aurora_wood_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_belt",
+					"name": "",
+					"color": "D2BC8DFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line01",
+					"name": "",
+					"color": "DFD5BBFF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line03",
+					"name": "",
+					"color": "DDC299FF",
+					"tex": "Aurora_wood_Q0_line2.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_plastic",
+					"name": "",
+					"color": "9E9378FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood1",
+					"name": "",
+					"color": "C3994FFF",
+					"tex": "Aurora_leather_Q0_wood1.jpg",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood2",
+					"name": "",
+					"color": "C7C7C7FF",
+					"tex": "Aurora_leather_Q0_wood2.jpg",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm9",
+			"model": "UmbHandle_Aurora_wood_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_belt",
+					"name": "",
+					"color": "40210DFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line01",
+					"name": "",
+					"color": "604435FF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line03",
+					"name": "",
+					"color": "543F2CFF",
+					"tex": "Aurora_wood_Q0_line2.png",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_plastic",
+					"name": "",
+					"color": "9E9378FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood1",
+					"name": "",
+					"color": "925B43FF",
+					"tex": "Aurora_leather_Q0_wood1.jpg",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood2",
+					"name": "",
+					"color": "C7C7C7FF",
+					"tex": "Aurora_leather_Q0_wood2.jpg",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm10",
+			"model": "UmbHandle_Aurora_wood_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_belt",
+					"name": "",
+					"color": "200D00FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line01",
+					"name": "",
+					"color": "402A1EFF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line03",
+					"name": "",
+					"color": "3A2D25FF",
+					"tex": "Aurora_wood_Q0_line2.png",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_plastic",
+					"name": "",
+					"color": "9E9378FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood1",
+					"name": "",
+					"color": "563525FF",
+					"tex": "Aurora_leather_Q0_wood1.jpg",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood2",
+					"name": "",
+					"color": "C7C7C7FF",
+					"tex": "Aurora_leather_Q0_wood2.jpg",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm11",
+			"model": "UmbHandle_Aurora_wood_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_belt",
+					"name": "",
+					"color": "40210DFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line01",
+					"name": "",
+					"color": "604435FF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line03",
+					"name": "",
+					"color": "543F2CFF",
+					"tex": "Aurora_wood_Q0_line2.png",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_plastic",
+					"name": "",
+					"color": "9E9378FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood1",
+					"name": "",
+					"color": "925B43FF",
+					"tex": "Aurora_leather_Q0_wood1.jpg",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood2",
+					"name": "",
+					"color": "C7C7C7FF",
+					"tex": "Aurora_leather_Q0_wood2.jpg",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm12",
+			"model": "UmbHandle_Aurora_wood_Q01",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_belt",
+					"name": "",
+					"color": "200D00FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line01",
+					"name": "",
+					"color": "402A1EFF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_line03",
+					"name": "",
+					"color": "3A2D25FF",
+					"tex": "Aurora_wood_Q0_line2.png",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_plastic",
+					"name": "",
+					"color": "9E9378FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood1",
+					"name": "",
+					"color": "341b1aFF",
+					"tex": "Aurora_leather_Q0_wood1.jpg",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q01_wood2",
+					"name": "",
+					"color": "C7C7C7FF",
+					"tex": "Aurora_leather_Q0_wood2.jpg",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm13",
+			"model": "UmbHandle_Aurora_wood_Q02",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_Q02_up",
+					"name": "",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q02_belt",
+					"name": "",
+					"color": "D6D6D6FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q02_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q02_plastic",
+					"name": "",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q02_side",
+					"name": "",
+					"color": "C3B9AFFF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q02_down",
+					"name": "",
+					"color": "C3B9AFFF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "hm14",
+			"model": "UmbHandle_Aurora_wood_Q03",
+			"suffix": ".glb",
+			"position": "0,57,0",
+			"rotation": "0,180,0",
+			"scale": 50,
+			"nodes": [
+				{
+					"node": "UmbHandle_Aurora_wood_Q03",
+					"name": "",
+					"color": "DFD5BBFF",
+					"tex": "Aurora_Q_wood_03.jpg",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q03_belt",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q03_Line01",
+					"name": "",
+					"color": "0A0909FF",
+					"tex": "Line_horizon.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q03_metal",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "UmbHandle_Aurora_wood_Q03_plastic",
+					"name": "",
+					"color": "F0EC7EFF",
+					"tex": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkA.1",
+			"model": "SilkScarf01_01_01_880_880_4_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_4",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_4_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_4_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkA.2",
+			"model": "SilkScarf01_01_01_880_880_2_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_2",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_2_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_2_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkA.3",
+			"model": "SilkScarf01_01_01_880_880_3_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_3",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_3_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_3_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkA.4",
+			"model": "SilkScarf01_01_01_880_880_1_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_1",
+					"name": "Umb",
+					"color": "959595FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_1_hair_Shape",
+					"name": "",
+					"color": "",
+					"tex": "female/hair3.jpg",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_1_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			],
+			"offset": {
+				"x": 0,
+				"y": -15,
+				"z": 0
+			}
+		},
+		{
+			"id": "silkD.1",
+			"model": "SilkScarf07_01_07_530_530_s1",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkD.2",
+			"model": "SilkScarf07_01_07_530_530_s2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07_s2",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_s2_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkD.3",
+			"model": "SilkScarf07_01_07_530_530_s4",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07_s4",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_s4_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkD.4",
+			"model": "SilkScarf07_01_07_530_530_s5",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07_s5",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_s5_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE.1",
+			"model": "SilkScarf02_01_02_1800_530_4_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_4",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_4_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE.2",
+			"model": "SilkScarf02_01_02_1800_530_1_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_1",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_1_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_1_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE.3",
+			"model": "SilkScarf02_01_02_1800_530_3_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_3",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_3_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_3_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE.4",
+			"model": "SilkScarf02_01_02_1800_530_2_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_2",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_2_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_2_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			],
+			"offset": {
+				"x": 0,
+				"y": -15,
+				"z": 0
+			}
+		},
+		{
+			"id": "silkA1.1",
+			"model": "SilkScarf01_01_01_880_880_4_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_4",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_4_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_4_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkA1.2",
+			"model": "SilkScarf01_01_01_880_880_2_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_2",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_2_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_2_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkA1.3",
+			"model": "SilkScarf01_01_01_880_880_3_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_3",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_3_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_3_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkA1.4",
+			"model": "SilkScarf01_01_01_880_880_1_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf01_1",
+					"name": "Umb",
+					"color": "959595FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_1_hair_Shape",
+					"name": "",
+					"color": "",
+					"tex": "female/hair3.jpg",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf01_1_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			],
+			"offset": {
+				"x": 0,
+				"y": -15,
+				"z": 0
+			}
+		},
+		{
+			"id": "silkD1.1",
+			"model": "SilkScarf07_01_07_530_530_s1",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkD1.2",
+			"model": "SilkScarf07_01_07_530_530_s2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07_s2",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_s2_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkD1.3",
+			"model": "SilkScarf07_01_07_530_530_s4",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07_s4",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_s4_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkD1.4",
+			"model": "SilkScarf07_01_07_530_530_s5",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf07_s5",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf07_s5_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE1.1",
+			"model": "SilkScarf02_01_02_1800_530_4_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_4",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_4_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE1.2",
+			"model": "SilkScarf02_01_02_1800_530_1_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_1",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_1_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_1_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE1.3",
+			"model": "SilkScarf02_01_02_1800_530_3_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_3",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_3_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_3_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "silkE1.4",
+			"model": "SilkScarf02_01_02_1800_530_2_v2",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "SilkScarf02_2",
+					"name": "Umb",
+					"color": "969696FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_2_back_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "SilkScarf02_2_front_line01",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"active": ""
+				}
+			],
+			"offset": {
+				"x": 0,
+				"y": -15,
+				"z": 0
+			}
+		},
+		{
+			"id": "model_female",
+			"model": "Female model for silk scarf_v4",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "bodyShape_skin_Shape",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"shininess": "",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "Clothes_for_silk_scarf_MD_source012",
+					"name": "Cloth",
+					"color": "EFEFD0FF",
+					"tex": "",
+					"shininess": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "DazEye_texture",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"shininess": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "DazEye_transparent",
+					"name": "",
+					"color": "96969603",
+					"tex": "",
+					"shininess": "",
+					"transparent": true,
+					"active": "false"
+				},
+				{
+					"node": "eyelash_Shape",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"shininess": "",
+					"transparent": "",
+					"active": "false"
+				},
+				{
+					"node": "hair_Shape",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "female/hair3.jpg",
+					"shininess": "",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "head",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"shininess": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "limb",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"shininess": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "shoes",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"shininess": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "model_male",
+			"model": "male_v1",
+			"position": "0,-105,0",
+			"rotation": "",
+			"scale": 0.1,
+			"nodes": [
+				{
+					"node": "body_leg_hand",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "male/body_leg_hand.jpg",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "body",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "male/body_east_underwear.jpg",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "body_face",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "male/body_face.jpg",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "button",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "male/button.jpg",
+					"depthWrite": "",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "eye",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "male/eye.jpg",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "eye_light",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "male/eye_light.png",
+					"depthWrite": "",
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "eyelash",
+					"name": "",
+					"color": "080101FF",
+					"tex": "",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "hair",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "male/hair.png",
+					"depthWrite": false,
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "shirt",
+					"name": "",
+					"color": "FFFFFFFF",
+					"tex": "",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "shoes",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				},
+				{
+					"node": "suit",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"depthWrite": "",
+					"transparent": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "Hat04",
+			"model": "Hat04_01_01_U1_male_v11",
+			"position": "0,45,0",
+			"rotation": "0,-90,0",
+			"scale": 0.2,
+			"nodes": [
+				{
+					"node": "Hat04_belt_outside_close",
+					"name": "Belt2",
+					"tag": "hookclose",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_belt_outside_close_line01",
+					"name": "line",
+					"tag": "hookclose",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": ""
+				},
+				{
+					"node": "Hat04_belt_inside",
+					"name": "Belt1",
+					"color": "030303FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_belt_outside_open",
+					"name": "Belt2",
+					"tag": "hookopen",
+					"color": "040812FF",
+					"tex": "",
+					"active": "false"
+				},
+				{
+					"node": "Hat04_belt_outside_open_line01",
+					"name": "line",
+					"tag": "hookopen",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": "false"
+				},
+				{
+					"node": "Hat04_belt_outside_open_velcro_outside",
+					"name": "hook",
+					"tag": "hookopen",
+					"color": "E1E1E1FF",
+					"tex": "Velcro_v1",
+					"active": "false"
+				},
+				{
+					"node": "Hat04_belt_velcro_inside",
+					"name": "hook",
+					"color": "E1E1E1FF",
+					"tex": "Velcro_v1",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_belt",
+					"name": "insidebelt",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_front",
+					"name": "inside",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_side",
+					"name": "inside",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_down",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_line01",
+					"name": "line",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": ""
+				},
+				{
+					"node": "Hat04_print_u",
+					"name": "Sleeve",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_u",
+					"name": "LogoEnd",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_U1_line01",
+					"name": "line",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": ""
+				},
+				{
+					"node": "Hat04_U1_print",
+					"name": "Umb",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "Hat04_UV2",
+			"model": "Hat04_01_01_U2_male_v11",
+			"position": "0,45,0",
+			"rotation": "0,-90,0",
+			"scale": 0.2,
+			"nodes": [
+				{
+					"node": "Hat04_belt_outside_close",
+					"name": "Belt2",
+					"type": "hookclose",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_belt_outside_close_line01",
+					"name": "line",
+					"type": "hookclose",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": ""
+				},
+				{
+					"node": "Hat04_belt_inside",
+					"name": "Belt1",
+					"color": "030303FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_belt_outside_open",
+					"name": "Belt2",
+					"type": "hookopen",
+					"color": "040812FF",
+					"tex": "",
+					"active": "false"
+				},
+				{
+					"node": "Hat04_belt_outside_open_line01",
+					"name": "line",
+					"type": "hookopen",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": "false"
+				},
+				{
+					"node": "Hat04_belt_outside_open_velcro_outside",
+					"name": "hook",
+					"type": "hookopen",
+					"color": "969696FF",
+					"tex": "Velcro_v1",
+					"active": "false"
+				},
+				{
+					"node": "Hat04_belt_velcro_inside",
+					"name": "hook",
+					"color": "969696FF",
+					"tex": "Velcro_v1",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_belt",
+					"name": "insidebelt",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_front",
+					"name": "inside",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_side",
+					"name": "inside",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_inside_down",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_line01",
+					"name": "line",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": ""
+				},
+				{
+					"node": "Hat04_print_u",
+					"name": "Sleeve",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_u",
+					"name": "LogoEnd",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat04_U2_line01",
+					"name": "line",
+					"color": "000000FF",
+					"tex": "line_01.png",
+					"transparent": true,
+					"repeat": 3,
+					"active": ""
+				},
+				{
+					"node": "Hat04_U2_print",
+					"name": "Umb",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		},
+		{
+			"id": "Hat05",
+			"model": "Hat05_01_02_O_female_v5",
+			"position": "0,40,0",
+			"rotation": "0,-90,0",
+			"scale": 0.2,
+			"nodes": [
+				{
+					"node": "Hat05_down",
+					"name": "Sleeve",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat05_print_inside",
+					"name": "LogoEnd",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat05_inside_top",
+					"name": "inside",
+					"color": "F5F5F5FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat05_inside_down",
+					"name": "",
+					"color": "000000FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat05_inside_side",
+					"name": "inside",
+					"color": "F5F5F5FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat05_inside_edge",
+					"name": "insidebelt",
+					"color": "F5F5F5FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat05_line1_line01",
+					"name": "line",
+					"color": "FFFFFFFF",
+					"tex": "line_01.png",
+					"repeat": 1,
+					"transparent": true,
+					"active": ""
+				},
+				{
+					"node": "Hat05_side",
+					"name": "Belt",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				},
+				{
+					"node": "Hat05_top",
+					"name": "Umb",
+					"color": "040812FF",
+					"tex": "",
+					"active": ""
+				}
+			]
+		}
+	]
+}

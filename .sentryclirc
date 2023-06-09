@@ -1,0 +1,7 @@
+[defaults]
+url=https://sentry.io/
+org=shareuc
+project=shareuc
+
+[auth]
+token=8847c2cbfbcd4bfa86e43f1a71cfdff88c64f9f2596644a6afe24625e8f882c1

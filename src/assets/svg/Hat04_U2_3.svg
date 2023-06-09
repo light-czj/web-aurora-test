@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg48795"
+   sodipodi:docname="Hat04_U2_3.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs48799">
+    <style
+       type="text/css"
+       id="style61205"><![CDATA[
+    .str0 {stroke:black;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:#ff0000}
+   ]]></style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview48797"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.55795144"
+     inkscape:cx="86.925127"
+     inkscape:cy="616.54111"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="592"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_x0020_1" />
+  <desc
+     id="desc24405">, (Blender 3.0.0)</desc>
+  <g
+     id="Layer_x0020_1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="matrix(0.03779525,0,0,0.03779525,10.938289,9.9622062)"
+     style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+    <metadata
+       id="CorelCorpID_0Corel-Layer" />
+    <g
+       id="path61214"
+       class="fil0 str0"
+       style="stroke:none">
+      <path
+         id="path2676"
+         style="color:#000000;clip-rule:nonzero;fill:#ff0000;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;-inkscape-stroke:none;shape-rendering:auto"
+         d="M 298.7793 9.6015625 A 1.0001 1.0001 0 0 0 298.27539 9.7363281 L 147.91016 96.589844 A 1.0001 1.0001 0 0 0 147.54297 97.957031 L 186.64844 165.61523 A 1.0001 1.0001 0 0 0 186.65039 165.61914 L 207.76172 201.74414 A 1.0001 1.0001 0 0 0 207.76953 201.75781 C 224.31268 229.0708 252.47984 268.0104 273.42188 292.04688 C 297.26284 319.41048 336.76833 354.98683 365.56836 377.33203 C 382.97586 390.83821 403.63435 406.03904 421.57031 418.94336 C 442.79038 434.21049 463.9128 448.08312 485.80078 462.19727 A 1.0001 1.0001 0 0 0 487.33203 461.5 C 491.47432 432.6702 496.30724 401.62562 499.50781 372.95508 C 504.69975 326.44506 505.37427 270.87209 503.33594 224.06445 C 502.14335 196.67583 499.70126 176.67499 496.11328 150.12695 A 1.0001 1.0001 0 0 0 494.87891 149.29102 C 482.75253 152.32785 474.98576 152.35268 462.5625 153.07617 L 449.47656 152.5625 L 436.47461 151.08789 L 423.70117 148.29297 L 411.25977 144.28906 L 399.35156 138.91406 L 388.0918 132.30078 L 377.65234 124.45117 L 368.16797 115.45312 L 359.49023 105.64453 L 351.50195 95.222656 C 336.49391 74.69894 312.86472 33.549721 299.64648 10.111328 A 1.0001 1.0001 0 0 0 298.7793 9.6015625 z "
+         transform="matrix(26.458351,0,0,26.458351,-289.40909,-263.58355)" />
+    </g>
+  </g>
+</svg>

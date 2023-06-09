@@ -1,0 +1,6751 @@
+{
+	"skin": {
+		"list": [
+			{
+				"type": "umb",
+				"image": "aurora/tex/skin_umb_v1.jpg"
+			},
+			{
+				"type": "scarf",
+				"image": "aurora/tex/skin_scarf_v1.jpg"
+			}
+		],
+		"colorCheck": [
+			{
+				"color": "#ffaca0",
+				"category": "light"
+			},
+			{
+				"color": "#b3d4e9",
+				"category": "warm"
+			},
+			{
+				"color": "#d54a25",
+				"category": "light"
+			},
+			{
+				"color": "#292623",
+				"category": "vivid"
+			},
+			{
+				"color": "#badc8a",
+				"category": "light"
+			},
+			{
+				"color": "#89dfcc",
+				"category": "warm"
+			},
+			{
+				"color": "#6a6931",
+				"category": "light"
+			},
+			{
+				"color": "#005d41",
+				"category": "vivid"
+			},
+			{
+				"color": "#3ab8c9",
+				"category": "light"
+			},
+			{
+				"color": "#2d5695",
+				"category": "warm"
+			},
+			{
+				"color": "#004d66",
+				"category": "light"
+			},
+			{
+				"color": "#0f1c46",
+				"category": "vivid"
+			},
+			{
+				"color": "#e4c47e",
+				"category": "light"
+			},
+			{
+				"color": "#c5b4ab",
+				"category": "warm"
+			},
+			{
+				"color": "#c08711",
+				"category": "light"
+			},
+			{
+				"color": "#ccc6b6",
+				"category": "vivid"
+			},
+			{
+				"color": "#da3457",
+				"category": "light"
+			},
+			{
+				"color": "#d279b3",
+				"category": "warm"
+			},
+			{
+				"color": "#5e2b6c",
+				"category": "light"
+			},
+			{
+				"color": "#a0084e",
+				"category": "vivid"
+			}
+		],
+		"colorSkin": [
+			{
+				"color": "#d4a77b",
+				"name": "NA201",
+				"category": "vivid"
+			},
+			{
+				"color": "#c0946d",
+				"name": "NA202",
+				"category": "warm"
+			},
+			{
+				"color": "#b28c5d",
+				"name": "NA205",
+				"category": "warm"
+			},
+			{
+				"color": "#caa477",
+				"name": "IV301",
+				"category": "light"
+			},
+			{
+				"color": "#c59d6c",
+				"name": "IV302",
+				"category": "light"
+			}
+		],
+		"colorSet": [
+			{
+				"name": "light",
+				"id": "1FH 11776",
+				"price": 13000,
+				"text": "自然の中の色が似合います。春の草花を思わせる明るく華やかな色や、\n秋の風景にあふれるアースカラーが得意です。",
+				"detail": "長傘12本骨\n親骨の長さ55ｃｍ\nポリエステル100％先染め",
+				"colors": [
+					{
+						"colorid": 35,
+						"pictureid": "76-35",
+						"image": "light7635.jpg",
+						"color": "ブルー",
+						"madein": "日本製",
+						"colorhex": "68a7b6ff"
+					},
+					{
+						"colorid": 65,
+						"pictureid": "76-65",
+						"image": "light7665.jpg",
+						"color": "マスタード",
+						"madein": "日本製",
+						"colorhex": "d64c1eff"
+					},
+					{
+						"colorid": 73,
+						"pictureid": "76-73",
+						"image": "light7673.jpg",
+						"color": "ピンク",
+						"madein": "日本製",
+						"colorhex": "daa796ff"
+					}
+				]
+			},
+			{
+				"name": "warm",
+				"id": "1FH 11776",
+				"price": 13000,
+				"text": "パウダリーな雰囲気のあるニュアンスカラーや、ソフトな中間色が似合います。\n爽やかで涼しげな色も得意です。",
+				"detail": "長傘12本骨\n親骨の長さ55ｃｍ\nポリエステル100％先染め",
+				"colors": [
+					{
+						"colorid": 27,
+						"pictureid": "76-27",
+						"image": "warm7627.jpg",
+						"color": "パープル",
+						"madein": "日本製",
+						"colorhex": "AF818BFF"
+					},
+					{
+						"colorid": 37,
+						"pictureid": "76-37",
+						"image": "warm7637.jpg",
+						"color": "ネイビー",
+						"madein": "日本製",
+						"colorhex": "7283A1FF"
+					},
+					{
+						"colorid": 75,
+						"pictureid": "76-75",
+						"image": "warm7675.jpg",
+						"color": "レッド",
+						"madein": "日本製",
+						"colorhex": "BE6561FF"
+					},
+					{
+						"colorid": 83,
+						"pictureid": "76-83",
+						"image": "warm7683.jpg",
+						"color": "ベージュ",
+						"madein": "日本製",
+						"colorhex": "BD9B6EFF"
+					},
+					{
+						"colorid": 98,
+						"pictureid": "76-98",
+						"image": "warm7698.jpg",
+						"color": "ブラック",
+						"madein": "日本製",
+						"colorhex": "746F69FF"
+					}
+				]
+			},
+			{
+				"name": "vivid",
+				"id": "1FH 11083",
+				"price": 15000,
+				"text": "澄んだ雰囲気の鮮やかな色や、存在感のあるダークな色が似合います。\nシャープな色が得意です。",
+				"detail": "長傘8本骨\n親骨の長さ60ｃｍ\n中棒・骨カーボン使用\nポリエステル100％先染め",
+				"colors": [
+					{
+						"colorid": 37,
+						"pictureid": "83-37",
+						"image": "vivid8337.jpg",
+						"color": "ネイビー",
+						"madein": "日本製",
+						"colorhex": "1C2649FF"
+					},
+					{
+						"colorid": 55,
+						"pictureid": "83-55",
+						"image": "vivid8355.jpg",
+						"color": "マスタード",
+						"madein": "日本製",
+						"colorhex": "D3A511FF"
+					},
+					{
+						"colorid": 73,
+						"pictureid": "83-73",
+						"image": "vivid8373.jpg",
+						"color": "ピンク",
+						"madein": "日本製",
+						"colorhex": "D7A7A5FF"
+					},
+					{
+						"colorid": 75,
+						"pictureid": "83-75",
+						"image": "vivid8375.jpg",
+						"color": "レッド",
+						"madein": "日本製",
+						"colorhex": "CE2528FF"
+					},
+					{
+						"colorid": 83,
+						"pictureid": "83-83",
+						"image": "vivid8383.jpg",
+						"color": "ベージュ",
+						"madein": "日本製",
+						"colorhex": "D4C3A5FF"
+					},
+					{
+						"colorid": 98,
+						"pictureid": "83-98",
+						"image": "vivid8398.jpg",
+						"color": "ブラック",
+						"madein": "日本製",
+						"colorhex": "232325FF"
+					}
+				]
+			}
+		],
+		"scarfResult": [
+			{
+				"title": "Spring",
+				"text": "あなたのパーソナルカラーは…",
+				"description": "お肌は健康的なアイボリー系で明るく、\nキラキラと輝いている印象のあなたは、\n年齢関係なく若々しく、キュートなイ\nメージの方です。\n魅力溢れる可愛らしいタイプで春の花\nを連想させる明るく華やかな色がお似\n合いになります。\nオレンジやイエロ\n、黄緑といった発色\nの良いビタミンカラーもフレッシュな印\n象で素敵に見えます。",
+				"Styling_point": "メイクやアクセサリーにツヤ感を出す\nと透明感を生かせます。\nまた、鮮やかでカラフルな色でまとめ過\nぎると幼く見えるので、濃い暖色系をア\nクセントカラーにしてメリハリ感を出す\nのがおすすめです。\nストールは可愛らしいイメージや華や\nかにアレンジするのがおすすめです。",
+				"option": [
+					{
+						"result_title": "フォーシーズンレクセルストール",
+						"result_info": "サイズ ：約70×186cm（房各2cm込）\n素材 ：再生繊維(レクセル)80%、絹20%\n色 ：ペールコーラル\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63109-42-60",
+						"image": [
+							"scarf_08.png",
+							"scarf_07.png"
+						]
+					},
+					{
+						"result_title": "レフ版ラメ入りラミーストール",
+						"result_info": "サイズ ：約60×190cm（房各2cm込）\n素材 ：再生繊維(テンセル)55%、\n麻45%, （スリット糸使用）\n色 ：ゴールド\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：12,100円（税込）\n品番 ：2FT 63110-43-11",
+						"image": [
+							"scarf_18.png",
+							"scarf_19.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "サイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：ペールブルー\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-30",
+						"image": [
+							"scarf_17.png",
+							"scarf_16.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "サイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：ライトベージュ\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-81",
+						"image": [
+							"scarf_12.png",
+							"scarf_11.png"
+						]
+					}
+				]
+			},
+			{
+				"title": "Summer",
+				"text": "あなたのパーソナルカラーは…",
+				"description": "お肌はほんのりとピンク系で、ソフトで\nエレガントな印象のあなたは、優しく上\n品でパステルカラーがとてもお似合い\nになります。\n初夏に咲く紫陽花のようにやわらかく\n上品でノーブルな色味やココア色など\nのやさしいブラウンも繊細で優しさが\nより一層引き立ちます。",
+				"Styling_point": "柔らかな女性らしい色がお似合いです\nが、多用すると全体にぼやけてしまうの\nでベーシックカラーを中心に差し色で\nパステルカラーを使うと大人上品な印\n象に見えます。デザインはキレイメにま\nとめるのがおすすめです。\nストールはスタイリングにより、シンプ\nルやエレガントにアレンジします。また\n差し色としては最適です。",
+				"option": [
+					{
+						"result_title": "フォーシーズンレクセルストール",
+						"result_info": "サイズ ：約70×186cm（房各2cm込）\n素材 ：再生繊維(レクセル)80%、絹20%\n色 ：ペールブルー\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63109-42-30",
+						"image": [
+							"scarf_02.png",
+							"scarf_01.png"
+						]
+					},
+					{
+						"result_title": "レフ版ラメ入りラミーストール",
+						"result_info": "サイズ ：約60×190cm（房各2cm込）\n素材 ：再生繊維(テンセル)55%、\n麻45%, （スリット糸使用）\n色 ：シルバー\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：12,100円（税込）\n品番 ：2FT 63110-43-12",
+						"image": [
+							"scarf_13.png",
+							"scarf_19.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "サイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：トープ\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-82",
+						"image": [
+							"scarf_15.png",
+							"scarf_14.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "パーソナルカラーリネンストール\nサイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：ネイビー\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-37",
+						"image": [
+							"scarf_10.png",
+							"scarf_09.png"
+						]
+					}
+				]
+			},
+			{
+				"title": "Autumn",
+				"text": "あなたのパーソナルカラーは…",
+				"description": "お肌は標準的なオークル系で、品のあ\nるナチュラルな印象のあなたは、シック\nで落ち着いた大人の女性らしさを感じ\nさせるタイプで、温かみある色がお似\n合いになります。\n秋の紅葉や実り豊かな大地を思わせる\nゴージャスで深みのある色、ブラウンや\nモスグリーン、深みのあるオレンジやレ\nンガ色が、一層品よくナチュラルで美し\nく素敵に見えます。",
+				"Styling_point": "渋めな色やくすんだ色を使っても地味\nにならず垢抜けた印象になるので、トレ\nンドのベイクドスモーキーカラーも誰よ\nり美しく着こなせます。\nベーシックカラーのワントーンコーデ\nなども、さらりとおしゃれに見えます。\nストールはスタイリングにより、リッチ\nな雰囲気かナチュラルにアレンジする\nのがおすすめです。",
+				"option": [
+					{
+						"result_title": "フォーシーズンレクセルストール",
+						"result_info": "サイズ ：約70×186cm（房各2cm込）\n素材 ：再生繊維(レクセル)80%、絹20%\n色 ：ライトオレンジ\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63109-42-63",
+						"image": [
+							"scarf_04.png",
+							"scarf_03.png"
+						]
+					},
+					{
+						"result_title": "レフ版ラメ入りラミーストール",
+						"result_info": "サイズ ：約60×190cm（房各2cm込）\n素材 ：再生繊維(テンセル)55%、\n麻45%, （スリット糸使用）\n色 ：ゴールド\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：12,100円（税込）\n品番 ：2FT 63110-43-11",
+						"image": [
+							"scarf_18.png",
+							"scarf_19.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "サイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：ペールブルー\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-30",
+						"image": [
+							"scarf_17.png",
+							"scarf_16.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "サイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：ライトベージュ\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-81",
+						"image": [
+							"scarf_12.png",
+							"scarf_11.png"
+						]
+					}
+				]
+			},
+			{
+				"title": "Winter",
+				"text": "あなたのパーソナルカラーは…",
+				"description": "お肌はピンク系でシャープでモダンな\n印象のあなたは、エメラルドグリーンや\n情熱的な赤、ロイヤルブルーなど濁りの\nない原色カラーや純白、グレー、黒と\nいったモノトーンがお似合いになります。\n鮮やかでコントラストがきいた配色で\nクールビューティー、洗練された雰囲気\nの方です。",
+				"Styling_point": "青み の 強いフューシャピンクなどパ\nキッと鮮やかでクリアな色をまとうと、\n凛とした美しさが際立ちます。\nスタイリッシュでモード感のあるスタイ\nリングがお似合いです。\nストールはスタイリングによりシャープ\nさやモダンを意識したアレンジがおす\nすめです。",
+				"option": [
+					{
+						"result_title": "フォーシーズンレクセルストール",
+						"result_info": "サイズ ：約70×186cm（房各2cm込）\n素材 ：再生繊維(レクセル)80%、絹20%\n色 ：フィーシャピンク\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63109-42-74",
+						"image": [
+							"scarf_06.png",
+							"scarf_05.png"
+						]
+					},
+					{
+						"result_title": "レフ版ラメ入りラミーストール",
+						"result_info": "サイズ ：約60×190cm（房各2cm込）\n素材 ：再生繊維(テンセル)55%、\n麻45%, （スリット糸使用）\n色 ：シルバー\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：12,100円（税込）\n品番 ：2FT 63110-43-12",
+						"image": [
+							"scarf_13.png",
+							"scarf_19.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "サイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：トープ\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-82",
+						"image": [
+							"scarf_15.png",
+							"scarf_14.png"
+						]
+					},
+					{
+						"result_title": "パーソナルカラーリネンストール",
+						"result_info": "サイズ ：約60×186cm（房各2cm込）\n素材 ：麻100%\n色 ：ネイビー\n機能 ：UVカット、手洗いOK\n原産国 ：日本製\n価格 ：13,200円（税込）\n品番 ：2FT 63111-44-37",
+						"image": [
+							"scarf_10.png",
+							"scarf_09.png"
+						]
+					}
+				]
+			}
+		]
+	},
+	"list": [
+		{
+			"items": [
+				{
+					"id": "A",
+					"images": [
+						"aurora/tex/shop220301-1-01.png",
+						"aurora/tex/shop220301-2-01.png",
+						"aurora/tex/shop220301-3-01.png"
+					],
+					"text": "雨傘 長傘 手開き 60ｃｍ×8本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"8w",
+						"8a8",
+						"8s",
+						"emoji"
+					],
+					"designid": "8w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック A",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "B",
+					"images": [
+						"aurora/tex/shop220301-1-02.png",
+						"aurora/tex/shop220301-2-02.png",
+						"aurora/tex/shop220301-3-02.png"
+					],
+					"text": "雨傘 長傘 ジャンプ 60ｃｍ×8本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"8w",
+						"8a8",
+						"8s",
+						"emoji"
+					],
+					"designid": "8w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック B",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "E",
+					"images": [
+						"aurora/tex/shop220301-1-03.png",
+						"aurora/tex/shop220301-2-03.png",
+						"aurora/tex/shop220301-3-03.png"
+					],
+					"text": "雨傘 ミニ 55ｃｍ×6本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"6w",
+						"6a6",
+						"6s",
+						"emoji"
+					],
+					"designid": "6w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック E",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "C",
+					"images": [
+						"aurora/tex/shop220301-1-04.png",
+						"aurora/tex/shop220301-2-04.png",
+						"aurora/tex/shop220301-3-04.png"
+					],
+					"text": "雨傘 長傘 手開き 65ｃｍ×8本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"8w",
+						"8a8",
+						"8s",
+						"emoji"
+					],
+					"designid": "8w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック D",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "D",
+					"images": [
+						"aurora/tex/shop220301-1-05.png",
+						"aurora/tex/shop220301-2-05.png",
+						"aurora/tex/shop220301-3-05.png"
+					],
+					"text": "雨傘 長傘 ジャンプ 65ｃｍ×8本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"8w",
+						"8a8",
+						"8s",
+						"emoji"
+					],
+					"designid": "8w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック C",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "F",
+					"images": [
+						"aurora/tex/shop220301-1-06_v2.png",
+						"aurora/tex/shop220301-2-06.png",
+						"aurora/tex/shop220301-3-06.png"
+					],
+					"text": "雨傘 ミニ 60ｃｍ×6本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"6w",
+						"6a6",
+						"6s",
+						"emoji"
+					],
+					"designid": "6w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック F",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "G",
+					"images": [
+						"aurora/tex/shop220301-1-07.png",
+						"aurora/tex/shop220301-2-07.png",
+						"aurora/tex/shop220301-3-07.png"
+					],
+					"text": "日傘 ショート 50ｃｍ×8本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"8w",
+						"8a8",
+						"8s",
+						"emoji"
+					],
+					"designid": "8w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック G",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "H",
+					"images": [
+						"aurora/tex/shop220301-1-08.png",
+						"aurora/tex/shop220301-2-08.png",
+						"aurora/tex/shop220301-3-08.png"
+					],
+					"text": "日傘 長傘 手開き 60ｃｍ×8本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"8w",
+						"8a8",
+						"8s",
+						"emoji"
+					],
+					"designid": "8w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック H",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "I",
+					"images": [
+						"aurora/tex/shop220426-1-09.png",
+						"aurora/tex/shop220426-2-09.png",
+						"aurora/tex/shop220426-3-09.png"
+					],
+					"text": "日傘 長傘 ジャンプ 60ｃｍ×8本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"8w",
+						"8a8",
+						"8s",
+						"emoji"
+					],
+					"designid": "8w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック I",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "J",
+					"images": [
+						"aurora/tex/shop220301-1-10.png",
+						"aurora/tex/shop220301-2-10.png",
+						"aurora/tex/shop220301-3-10.png"
+					],
+					"text": "日傘 ミニ 手開き 55ｃｍ×6本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"6w",
+						"6a6",
+						"6s",
+						"emoji"
+					],
+					"designid": "6w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック J",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "K",
+					"images": [
+						"aurora/tex/shop220301-1-11.png",
+						"aurora/tex/shop220301-2-11.png",
+						"aurora/tex/shop220301-3-11.png"
+					],
+					"text": "日傘 ミニ 手開き 50ｃｍ×6本骨",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"6w",
+						"6a6",
+						"6s",
+						"emoji"
+					],
+					"designid": "6w",
+					"product": "umb",
+					"price": 6000,
+					"title": "仕様をチェック K",
+					"subtitle": "",
+					"checkbox": false
+				}
+			]
+		},
+		{
+			"items": [
+				{
+					"id": "silkA",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"images": [
+						"aurora/tex/shop/scarf/1.png"
+					],
+					"text": "スクエア 88cm×88cm",
+					"type2dList": [
+						"fonts"
+					],
+					"designid": "A2",
+					"defaultTexture": {
+						"umb": "aurora/tex/A2"
+					},
+					"product": "scarf",
+					"price": 5000,
+					"title": "仕様をチェック A",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "silkE",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"images": [
+						"aurora/tex/shop/scarf/2.png"
+					],
+					"text": "ロング 53cm×180cm",
+					"type2dList": [
+						"fonts"
+					],
+					"designid": "B2",
+					"defaultTexture": {
+						"umb": "aurora/tex/B2"
+					},
+					"product": "scarf",
+					"price": 5000,
+					"title": "仕様をチェック A",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "silkD",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"images": [
+						"aurora/tex/shop/scarf/3.png"
+					],
+					"text": "プチスクエア 53cm×53cm",
+					"type2dList": [
+						"fonts"
+					],
+					"designid": "A2",
+					"defaultTexture": {
+						"umb": "aurora/tex/A2"
+					},
+					"product": "scarf",
+					"price": 3500,
+					"title": "仕様をチェック A",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "silkA1",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"images": [
+						"aurora/tex/shop/scarf/4_v1.png"
+					],
+					"text": "スクエア 88cm×88cm",
+					"type2dList": [
+						"fonts"
+					],
+					"designid": "A2",
+					"defaultTexture": {
+						"umb": "aurora/tex/A2"
+					},
+					"product": "scarf",
+					"price": 5000,
+					"title": "仕様をチェック A",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "silkE1",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"images": [
+						"aurora/tex/shop/scarf/5_v1.png"
+					],
+					"text": "ロング 53cm×180cm",
+					"type2dList": [
+						"fonts"
+					],
+					"designid": "B2",
+					"defaultTexture": {
+						"umb": "aurora/tex/B2"
+					},
+					"product": "scarf",
+					"price": 5000,
+					"title": "仕様をチェック A",
+					"subtitle": "",
+					"checkbox": false
+				},
+				{
+					"id": "silkD1",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"images": [
+						"aurora/tex/shop/scarf/6_v1.png"
+					],
+					"text": "プチスクエア 53cm×53cm",
+					"type2dList": [
+						"fonts"
+					],
+					"designid": "A2",
+					"defaultTexture": {
+						"umb": "aurora/tex/A2"
+					},
+					"product": "scarf",
+					"price": 3500,
+					"title": "仕様をチェック A",
+					"subtitle": "",
+					"checkbox": false
+				}
+			]
+		},
+		{
+			"items": [
+				{
+					"id": "Hat04",
+					"images": [
+						"aurora/tex/DIGITAL_BANNER_HAT_ol-01_v1.png"
+					],
+					"designid": "hat_6w",
+					"text": "キャップ",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"fonts"
+					],
+					"product": "gift",
+					"price": 5000,
+					"title": "",
+					"subtitle": "",
+					"checkbox": ""
+				},
+				{
+					"id": "Hat05",
+					"images": [
+						"aurora/tex/DIGITAL_BANNER_HAT_ol-2-01_v2.png"
+					],
+					"designid": "",
+					"text": "バケット",
+					"filter": "タ一タン_チェック",
+					"gallery": 6,
+					"type2dList": [
+						"fonts"
+					],
+					"product": "gift",
+					"price": 5500,
+					"title": "",
+					"subtitle": "",
+					"checkbox": ""
+				}
+			]
+		}
+	],
+	"texture": [
+		{
+			"name": "default",
+			"images": [
+				{
+					"id": "pantone",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_2",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_3",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_13",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_4_v1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_5",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_6",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_2",
+					"tag": "dot fruits  red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_3",
+					"tag": "stars black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_4",
+					"tag": "flat block"
+				},
+				{
+					"id": "aurora/tex/aurora0822_5",
+					"tag": "flower yellow"
+				},
+				{
+					"id": "aurora/tex/aurora0822_6",
+					"tag": "dot black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_7",
+					"tag": "stripe line"
+				},
+				{
+					"id": "aurora/tex/aurora0822_8",
+					"tag": "stripe flat block line"
+				},
+				{
+					"id": "aurora/tex/aurora0822_9",
+					"tag": "stripe line  red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_10",
+					"tag": "flat block  red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_11",
+					"tag": "flat block black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_12",
+					"tag": "flat block black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_13",
+					"tag": "twill black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_14",
+					"tag": "dot black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_15",
+					"tag": "flower yellow"
+				},
+				{
+					"id": "aurora/tex/aurora0822_16",
+					"tag": "dot orange"
+				},
+				{
+					"id": "aurora/tex/aurora0822_17",
+					"tag": "dot orange"
+				},
+				{
+					"id": "aurora/tex/077",
+					"tag": "メンズ　変形ストライプ　ブラック"
+				},
+				{
+					"id": "aurora/tex/078",
+					"tag": "メンズ　変形ストライプ　カーキ"
+				},
+				{
+					"id": "aurora/tex/079",
+					"tag": "メンズ　変形ストライプ　ネイビー"
+				},
+				{
+					"id": "aurora/tex/080",
+					"tag": "メンズ　ボタニカル　ブラック"
+				},
+				{
+					"id": "aurora/tex/081",
+					"tag": "メンズ　ボタニカル　カーキ"
+				},
+				{
+					"id": "aurora/tex/082",
+					"tag": "メンズ　ボタニカル　ネイビー"
+				},
+				{
+					"id": "aurora/tex/083_v2",
+					"tag": "メンズ迷彩　グレー"
+				},
+				{
+					"id": "aurora/tex/084_v2",
+					"tag": "メンズ迷彩　カーキ"
+				},
+				{
+					"id": "aurora/tex/085_v2",
+					"tag": "メンズ迷彩　ネイビー"
+				},
+				{
+					"id": "aurora/tex/086_v2",
+					"tag": "メンズ　ボーダー　ブラック"
+				},
+				{
+					"id": "aurora/tex/087_v2",
+					"tag": "メンズ　ボーダー　グレー"
+				},
+				{
+					"id": "aurora/tex/088_v2",
+					"tag": "メンズ　ボーダー　ネイビー"
+				},
+				{
+					"id": "aurora/tex/089_v2",
+					"tag": "メンズ　チェック　ブラック"
+				},
+				{
+					"id": "aurora/tex/090_v2",
+					"tag": "メンズ　チェック　グレー"
+				},
+				{
+					"id": "aurora/tex/091_v2",
+					"tag": "メンズ　チェック　ネイビー"
+				},
+				{
+					"id": "aurora/tex/092_v2",
+					"tag": "メンズ　ストライプ　ブラック"
+				},
+				{
+					"id": "aurora/tex/093_v2",
+					"tag": "メンズ　ストライプ　グレー"
+				},
+				{
+					"id": "aurora/tex/094_v2",
+					"tag": "メンズ　ストライプ　ネイビー"
+				},
+				{
+					"id": "aurora/tex/095_v2",
+					"tag": "メンズ　ペイズリー　ブラック"
+				},
+				{
+					"id": "aurora/tex/096_v2",
+					"tag": "メンズ　ペイズリー　グレー"
+				},
+				{
+					"id": "aurora/tex/097_v2",
+					"tag": "メンズ　ペイズリー　カーキ"
+				},
+				{
+					"id": "aurora/tex/098_v2",
+					"tag": "メンズ　ペイズリー　ネイビー"
+				},
+				{
+					"id": "aurora/tex/099_v2",
+					"tag": "メンズ　ペイズリー　ライトグレー"
+				},
+				{
+					"id": "aurora/tex/100_v2",
+					"tag": "メンズ　ペイズリー　グレーＸレッド"
+				},
+				{
+					"id": "aurora/tex/101_v2",
+					"tag": "メンズ　ペイズリー　オレンジ"
+				}
+			]
+		},
+		{
+			"name": "K",
+			"images": [
+				{
+					"id": "aurora/tex/048",
+					"tag": "よだかの星 yotaga star 夜鹰之星"
+				},
+				{
+					"id": "aurora/tex/049",
+					"tag": "フリットフェザーカルゼ frit feather karase 花边羽毛和布゙"
+				},
+				{
+					"id": "aurora/tex/050",
+					"tag": "ブランケットローズ blanket rose゙ blanket rose一种玫瑰花゙"
+				},
+				{
+					"id": "aurora/tex/054_v2",
+					"tag": "けし花火 poppy firework 罂粟烟花"
+				},
+				{
+					"id": "aurora/tex/060",
+					"tag": "イヌイットストライプ Inuit stripe゚ 因纽特人条纹゚"
+				},
+				{
+					"id": "aurora/tex/061",
+					"tag": "イニシャルねこ initial cat 大写字母猫"
+				},
+				{
+					"id": "aurora/tex/062",
+					"tag": "馬ボーダー horse with border 马条纹"
+				},
+				{
+					"id": "aurora/tex/063",
+					"tag": "秋の七草 Nanakusa in autumn 秋的七草"
+				},
+				{
+					"id": "aurora/tex/065",
+					"tag": "市松チェック ichimatu check 市松格子"
+				},
+				{
+					"id": "aurora/tex/066",
+					"tag": "sapporomap sapporomap 札幌地图"
+				}
+			]
+		},
+		{
+			"name": "Z",
+			"images": [
+				{
+					"id": "aurora/tex/046_v2",
+					"tag": "ワオキツネザル ring-tailed lemur 环尾狐猴"
+				},
+				{
+					"id": "aurora/tex/047",
+					"tag": "ロバ(白) hinny(white) 骡马（白）"
+				},
+				{
+					"id": "aurora/tex/051",
+					"tag": "フラミンゴ flamingo゙ 火烈鸟゙"
+				},
+				{
+					"id": "aurora/tex/052_v2",
+					"tag": "バク Baku 獏"
+				},
+				{
+					"id": "aurora/tex/053",
+					"tag": "チーター cheetah 猎豹"
+				},
+				{
+					"id": "aurora/tex/055_v2",
+					"tag": "くらげ(白) jellyfish(white) 水母(白)"
+				},
+				{
+					"id": "aurora/tex/056",
+					"tag": "カバ Hippo 河马゙"
+				},
+				{
+					"id": "aurora/tex/057",
+					"tag": "オニオオハシ Ramphastos toco 托哥巨嘴鸟"
+				},
+				{
+					"id": "aurora/tex/058",
+					"tag": "オオカミ wolf 狼"
+				},
+				{
+					"id": "aurora/tex/059",
+					"tag": "オウム Parrot 鹦鹉"
+				},
+				{
+					"id": "aurora/tex/064",
+					"tag": "犬 dog 犬"
+				}
+			]
+		},
+		{
+			"name": "E",
+			"images": [
+				{
+					"id": "aurora/tex/067",
+					"tag": "ワオキツネザル ring-tailed lemur 环尾狐猴"
+				},
+				{
+					"id": "aurora/tex/068",
+					"tag": "ロバ(白) hinny(white) 骡马（白）"
+				},
+				{
+					"id": "aurora/tex/069",
+					"tag": "フラミンゴ flamingo゙ 火烈鸟゙"
+				},
+				{
+					"id": "aurora/tex/070",
+					"tag": "バク Baku 獏"
+				},
+				{
+					"id": "aurora/tex/071",
+					"tag": "チーター cheetah 猎豹"
+				},
+				{
+					"id": "aurora/tex/072",
+					"tag": "くらげ(白) jellyfish(white) 水母(白)"
+				},
+				{
+					"id": "aurora/tex/074",
+					"tag": "オニオオハシ Ramphastos toco 托哥巨嘴鸟"
+				},
+				{
+					"id": "aurora/tex/076",
+					"tag": "flower"
+				}
+			]
+		},
+		{
+			"name": "silk",
+			"images": [
+				{
+					"id": "aurora/tex/1226_1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_2",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_3",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_2",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_3",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_7",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_8",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_9",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_10_V1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_11_V1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_12_V1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_13",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_14",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_4_v1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_5",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_6",
+					"tag": "stripe line red"
+				}
+			]
+		},
+		{
+			"name": "scarf",
+			"images": [
+				{
+					"id": "pantone",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_2",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_3",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1226_13",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_4_v1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_5",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/1227_6",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_1",
+					"tag": "stripe line red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_2",
+					"tag": "dot fruits  red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_3",
+					"tag": "stars black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_4",
+					"tag": "flat block"
+				},
+				{
+					"id": "aurora/tex/aurora0822_5",
+					"tag": "flower yellow"
+				},
+				{
+					"id": "aurora/tex/aurora0822_6",
+					"tag": "dot black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_7",
+					"tag": "stripe line"
+				},
+				{
+					"id": "aurora/tex/aurora0822_8",
+					"tag": "stripe flat block line"
+				},
+				{
+					"id": "aurora/tex/aurora0822_9",
+					"tag": "stripe line  red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_10",
+					"tag": "flat block  red"
+				},
+				{
+					"id": "aurora/tex/aurora0822_11",
+					"tag": "flat block black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_12",
+					"tag": "flat block black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_13",
+					"tag": "twill black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_14",
+					"tag": "dot black"
+				},
+				{
+					"id": "aurora/tex/aurora0822_15",
+					"tag": "flower yellow"
+				},
+				{
+					"id": "aurora/tex/aurora0822_16",
+					"tag": "dot orange"
+				},
+				{
+					"id": "aurora/tex/aurora0822_17",
+					"tag": "dot orange"
+				},
+				{
+					"id": "aurora/tex/077",
+					"tag": "メンズ　変形ストライプ　ブラック"
+				},
+				{
+					"id": "aurora/tex/078",
+					"tag": "メンズ　変形ストライプ　カーキ"
+				},
+				{
+					"id": "aurora/tex/079",
+					"tag": "メンズ　変形ストライプ　ネイビー"
+				},
+				{
+					"id": "aurora/tex/080",
+					"tag": "メンズ　ボタニカル　ブラック"
+				},
+				{
+					"id": "aurora/tex/081",
+					"tag": "メンズ　ボタニカル　カーキ"
+				},
+				{
+					"id": "aurora/tex/082",
+					"tag": "メンズ　ボタニカル　ネイビー"
+				},
+				{
+					"id": "aurora/tex/083_v2",
+					"tag": "メンズ迷彩　グレー"
+				},
+				{
+					"id": "aurora/tex/084_v2",
+					"tag": "メンズ迷彩　カーキ"
+				},
+				{
+					"id": "aurora/tex/085_v2",
+					"tag": "メンズ迷彩　ネイビー"
+				},
+				{
+					"id": "aurora/tex/086_v2",
+					"tag": "メンズ　ボーダー　ブラック"
+				},
+				{
+					"id": "aurora/tex/087_v2",
+					"tag": "メンズ　ボーダー　グレー"
+				},
+				{
+					"id": "aurora/tex/088_v2",
+					"tag": "メンズ　ボーダー　ネイビー"
+				},
+				{
+					"id": "aurora/tex/089_v2",
+					"tag": "メンズ　チェック　ブラック"
+				},
+				{
+					"id": "aurora/tex/090_v2",
+					"tag": "メンズ　チェック　グレー"
+				},
+				{
+					"id": "aurora/tex/091_v2",
+					"tag": "メンズ　チェック　ネイビー"
+				},
+				{
+					"id": "aurora/tex/092_v2",
+					"tag": "メンズ　ストライプ　ブラック"
+				},
+				{
+					"id": "aurora/tex/093_v2",
+					"tag": "メンズ　ストライプ　グレー"
+				},
+				{
+					"id": "aurora/tex/094_v2",
+					"tag": "メンズ　ストライプ　ネイビー"
+				},
+				{
+					"id": "aurora/tex/095_v2",
+					"tag": "メンズ　ペイズリー　ブラック"
+				},
+				{
+					"id": "aurora/tex/096_v2",
+					"tag": "メンズ　ペイズリー　グレー"
+				},
+				{
+					"id": "aurora/tex/097_v2",
+					"tag": "メンズ　ペイズリー　カーキ"
+				},
+				{
+					"id": "aurora/tex/098_v2",
+					"tag": "メンズ　ペイズリー　ネイビー"
+				},
+				{
+					"id": "aurora/tex/099_v2",
+					"tag": "メンズ　ペイズリー　ライトグレー"
+				},
+				{
+					"id": "aurora/tex/100_v2",
+					"tag": "メンズ　ペイズリー　グレーＸレッド"
+				},
+				{
+					"id": "aurora/tex/101_v2",
+					"tag": "メンズ　ペイズリー　オレンジ"
+				}
+			]
+		},
+		{
+			"name": "cap",
+			"images": [
+				{
+					"タ一タン_チェック": [
+						{
+							"id": "aurora/tex/cap/tartancheck_beige"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_beige3"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_black"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_blue"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_blue1"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_bluesky1"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_gray"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_green"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_green2"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_purple"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_red"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_red2"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_yellow"
+						},
+						{
+							"id": "aurora/tex/cap/tartancheck_yellow2"
+						}
+					],
+					"バレンタイン": [
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart01"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart02"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart03"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart04"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart05"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart06"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart07"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart08"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart09"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart10"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart11"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_choco_heart12"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart1"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart10"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart11"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart12"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart13"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart14"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart2"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart3"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart4"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart5"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart6"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart7"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart8"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart9"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart_black"
+						},
+						{
+							"id": "aurora/tex/cap/Valentain_heart_simple"
+						}
+					],
+					"ブラック_ストライプ": [
+						{
+							"id": "aurora/tex/cap/blackstripe_beige"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_beige3"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_blue"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_blue1"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_blue3"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_gray"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_green1"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_green2"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_purple"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_red1"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_red2"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_white"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_yellow1"
+						},
+						{
+							"id": "aurora/tex/cap/blackstripe_yellow2"
+						}
+					],
+					"ブラック_チェック": [
+						{
+							"id": "aurora/tex/cap/blackcheck_beige"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_beige3"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_blue"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_blue1"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_blue3"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_gray"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_green1"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_green2"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_purple"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_red1"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_red2"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_white"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_yellow"
+						},
+						{
+							"id": "aurora/tex/cap/blackcheck_yellow2"
+						}
+					],
+					"ブラック_ドット": [
+						{
+							"id": "aurora/tex/cap/blackdot_beige"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_beige3"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_gray"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_green1"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_green2"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_purple"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_red1"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_red2"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_white"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_yellow1"
+						},
+						{
+							"id": "aurora/tex/cap/blackdot_yellow2"
+						},
+						{
+							"id": "aurora/tex/cap/blackstar_blue"
+						},
+						{
+							"id": "aurora/tex/cap/blackstar_blue1"
+						},
+						{
+							"id": "aurora/tex/cap/blackstar_blue3"
+						},
+						{
+							"id": "aurora/tex/cap/blackstar_bluesky"
+						}
+					],
+					"ホワイト_スター": [
+						{
+							"id": "aurora/tex/cap/whitestar_beige"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_black"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_bluemarine"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_gray"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_green"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_navy"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_pink"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_purple"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_red"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_redorange"
+						},
+						{
+							"id": "aurora/tex/cap/whitestar_yellow"
+						}
+					],
+					"ホワイト_ストライプ": [
+						{
+							"id": "aurora/tex/cap/whitestripe_beige"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_beige3"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_black"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_blue"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_blue1"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_blue3"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_gray"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_green1"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_green2"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_purple"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_red1"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_red2"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_yellow1"
+						},
+						{
+							"id": "aurora/tex/cap/whitestripe_yellow2"
+						}
+					],
+					"ホワイト_チェック": [
+						{
+							"id": "aurora/tex/cap/whitecheck_beige"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_beige3"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_black"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_blue"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_blue1"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_blue3"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_gray"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_green1"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_green2"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_purple"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_red1"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_red2"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_yellow1"
+						},
+						{
+							"id": "aurora/tex/cap/whitecheck_yellow2"
+						}
+					],
+					"ホワイト_ドット": [
+						{
+							"id": "aurora/tex/cap/whitedot_beige"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_black"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_blue"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_bluepurple"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_gray"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_green"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_green2"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_purple"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_red"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_yellow"
+						},
+						{
+							"id": "aurora/tex/cap/whitedot_yellow2"
+						}
+					],
+					"ホワイト_ハート": [
+						{
+							"id": "aurora/tex/cap/whitehearts_beige"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_beige1"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_beige2"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_beige3"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_black"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_blue"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_blue1"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_blue3"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_bluenavy"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_bluesky"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_gray"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_graysilver"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_green"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_green2"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_pink2"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_pink3"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_pink4"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_pink5"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_purple"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_purple2"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_red"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_red2"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_yellow1"
+						},
+						{
+							"id": "aurora/tex/cap/whitehearts_yellow2"
+						}
+					]
+				}
+			]
+		}
+	],
+	"sticker1": [
+		{
+			"id": "aurora/tex/sticker/lm_001.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_002.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_003.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_004.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_005.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_006.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_007.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_008.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_009.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_010.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_011.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_012.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_013.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_014.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_015.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_016.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_017.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_018.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_019.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_020.png"
+		},
+		{
+			"id": "aurora/tex/sticker/lm_021.png"
+		}
+	],
+	"images": {
+		"タ一タン_チェック": [
+			{
+				"id": "aurora/tex/cap/tartancheck_beige"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_beige3"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_black"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_blue"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_blue1"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_bluesky1"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_gray"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_green"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_green2"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_purple"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_red"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_red2"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_yellow"
+			},
+			{
+				"id": "aurora/tex/cap/tartancheck_yellow2"
+			}
+		],
+		"バレンタイン": [
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart01"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart02"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart03"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart04"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart05"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart06"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart07"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart08"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart09"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart10"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart11"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_choco_heart12"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart1"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart10"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart11"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart12"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart13"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart14"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart2"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart3"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart4"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart5"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart6"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart7"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart8"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart9"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart_black"
+			},
+			{
+				"id": "aurora/tex/cap/Valentain_heart_simple"
+			}
+		],
+		"ブラック_ストライプ": [
+			{
+				"id": "aurora/tex/cap/blackstripe_beige"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_beige3"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_blue"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_blue1"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_blue3"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_gray"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_green1"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_green2"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_purple"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_red1"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_red2"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_white"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_yellow1"
+			},
+			{
+				"id": "aurora/tex/cap/blackstripe_yellow2"
+			}
+		],
+		"ブラック_チェック": [
+			{
+				"id": "aurora/tex/cap/blackcheck_beige"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_beige3"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_blue"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_blue1"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_blue3"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_gray"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_green1"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_green2"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_purple"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_red1"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_red2"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_white"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_yellow"
+			},
+			{
+				"id": "aurora/tex/cap/blackcheck_yellow2"
+			}
+		],
+		"ブラック_ドット": [
+			{
+				"id": "aurora/tex/cap/blackdot_beige"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_beige3"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_gray"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_green1"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_green2"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_purple"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_red1"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_red2"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_white"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_yellow1"
+			},
+			{
+				"id": "aurora/tex/cap/blackdot_yellow2"
+			},
+			{
+				"id": "aurora/tex/cap/blackstar_blue"
+			},
+			{
+				"id": "aurora/tex/cap/blackstar_blue1"
+			},
+			{
+				"id": "aurora/tex/cap/blackstar_blue3"
+			},
+			{
+				"id": "aurora/tex/cap/blackstar_bluesky"
+			}
+		],
+		"ホワイト_スター": [
+			{
+				"id": "aurora/tex/cap/whitestar_beige"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_black"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_bluemarine"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_gray"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_green"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_navy"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_pink"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_purple"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_red"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_redorange"
+			},
+			{
+				"id": "aurora/tex/cap/whitestar_yellow"
+			}
+		],
+		"ホワイト_ストライプ": [
+			{
+				"id": "aurora/tex/cap/whitestripe_beige"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_beige3"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_black"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_blue"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_blue1"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_blue3"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_gray"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_green1"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_green2"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_purple"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_red1"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_red2"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_yellow1"
+			},
+			{
+				"id": "aurora/tex/cap/whitestripe_yellow2"
+			}
+		],
+		"ホワイト_チェック": [
+			{
+				"id": "aurora/tex/cap/whitecheck_beige"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_beige3"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_black"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_blue"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_blue1"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_blue3"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_gray"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_green1"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_green2"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_purple"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_red1"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_red2"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_yellow1"
+			},
+			{
+				"id": "aurora/tex/cap/whitecheck_yellow2"
+			}
+		],
+		"ホワイト_ドット": [
+			{
+				"id": "aurora/tex/cap/whitedot_beige"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_black"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_blue"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_bluepurple"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_gray"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_green"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_green2"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_purple"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_red"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_yellow"
+			},
+			{
+				"id": "aurora/tex/cap/whitedot_yellow2"
+			}
+		],
+		"ホワイト_ハート": [
+			{
+				"id": "aurora/tex/cap/whitehearts_beige"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_beige1"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_beige2"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_beige3"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_black"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_blue"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_blue1"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_blue3"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_bluenavy"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_bluesky"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_gray"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_graysilver"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_green"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_green2"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_pink2"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_pink3"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_pink4"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_pink5"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_purple"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_purple2"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_red"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_red2"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_yellow1"
+			},
+			{
+				"id": "aurora/tex/cap/whitehearts_yellow2"
+			}
+		]
+	},
+	"sticker": [
+		{
+			"id": "aurora/tex/sticker/alphabet_A001.png"
+		},
+		{
+			"id": "aurora/tex/sticker/alphabet_A002.png"
+		}
+	],
+	"emoji": [
+		{
+			"name": "A",
+			"images": [
+				{
+					"id": "aurora/tex/upload.png"
+				},
+				{
+					"id": "aurora/tex/AA.png"
+				},
+				{
+					"id": "aurora/tex/AB.png"
+				},
+				{
+					"id": "aurora/tex/AC.png"
+				},
+				{
+					"id": "aurora/tex/AD.png"
+				},
+				{
+					"id": "aurora/tex/AE.png"
+				},
+				{
+					"id": "aurora/tex/AF.png"
+				},
+				{
+					"id": "aurora/tex/AG.png"
+				},
+				{
+					"id": "aurora/tex/AH.png"
+				},
+				{
+					"id": "aurora/tex/AI.png"
+				},
+				{
+					"id": "aurora/tex/AJ.png"
+				},
+				{
+					"id": "aurora/tex/AK.png"
+				},
+				{
+					"id": "aurora/tex/AL.png"
+				},
+				{
+					"id": "aurora/tex/AM.png"
+				},
+				{
+					"id": "aurora/tex/AN.png"
+				},
+				{
+					"id": "aurora/tex/AO.png"
+				},
+				{
+					"id": "aurora/tex/AP.png"
+				},
+				{
+					"id": "aurora/tex/AQ.png"
+				},
+				{
+					"id": "aurora/tex/AR.png"
+				},
+				{
+					"id": "aurora/tex/AS.png"
+				},
+				{
+					"id": "aurora/tex/AT.png"
+				},
+				{
+					"id": "aurora/tex/AU.png"
+				},
+				{
+					"id": "aurora/tex/AV.png"
+				},
+				{
+					"id": "aurora/tex/AW.png"
+				},
+				{
+					"id": "aurora/tex/AX.png"
+				},
+				{
+					"id": "aurora/tex/AY.png"
+				},
+				{
+					"id": "aurora/tex/AZ.png"
+				}
+			]
+		},
+		{
+			"name": "B",
+			"images": [
+				{
+					"id": "aurora/tex/upload.png"
+				},
+				{
+					"id": "aurora/tex/BA.png"
+				},
+				{
+					"id": "aurora/tex/BB.png"
+				},
+				{
+					"id": "aurora/tex/BC.png"
+				},
+				{
+					"id": "aurora/tex/BD.png"
+				},
+				{
+					"id": "aurora/tex/BE.png"
+				},
+				{
+					"id": "aurora/tex/BF.png"
+				},
+				{
+					"id": "aurora/tex/BG.png"
+				},
+				{
+					"id": "aurora/tex/BH.png"
+				},
+				{
+					"id": "aurora/tex/BI.png"
+				},
+				{
+					"id": "aurora/tex/BJ.png"
+				},
+				{
+					"id": "aurora/tex/BK.png"
+				},
+				{
+					"id": "aurora/tex/BL.png"
+				},
+				{
+					"id": "aurora/tex/BM.png"
+				},
+				{
+					"id": "aurora/tex/BN.png"
+				},
+				{
+					"id": "aurora/tex/BO.png"
+				},
+				{
+					"id": "aurora/tex/BP.png"
+				},
+				{
+					"id": "aurora/tex/BQ.png"
+				},
+				{
+					"id": "aurora/tex/BR.png"
+				},
+				{
+					"id": "aurora/tex/BS.png"
+				},
+				{
+					"id": "aurora/tex/BT.png"
+				},
+				{
+					"id": "aurora/tex/BU.png"
+				},
+				{
+					"id": "aurora/tex/BV.png"
+				},
+				{
+					"id": "aurora/tex/BW.png"
+				},
+				{
+					"id": "aurora/tex/BX.png"
+				},
+				{
+					"id": "aurora/tex/BY.png"
+				},
+				{
+					"id": "aurora/tex/BZ.png"
+				}
+			]
+		},
+		{
+			"name": "C",
+			"images": [
+				{
+					"id": "aurora/tex/upload.png"
+				},
+				{
+					"id": "aurora/tex/CA.png"
+				},
+				{
+					"id": "aurora/tex/CB.png"
+				},
+				{
+					"id": "aurora/tex/CC.png"
+				},
+				{
+					"id": "aurora/tex/CD.png"
+				},
+				{
+					"id": "aurora/tex/CE.png"
+				},
+				{
+					"id": "aurora/tex/CF.png"
+				},
+				{
+					"id": "aurora/tex/CG.png"
+				},
+				{
+					"id": "aurora/tex/CH.png"
+				},
+				{
+					"id": "aurora/tex/CI.png"
+				},
+				{
+					"id": "aurora/tex/CJ.png"
+				},
+				{
+					"id": "aurora/tex/CK.png"
+				},
+				{
+					"id": "aurora/tex/CL.png"
+				},
+				{
+					"id": "aurora/tex/CM.png"
+				},
+				{
+					"id": "aurora/tex/CN.png"
+				},
+				{
+					"id": "aurora/tex/CO.png"
+				},
+				{
+					"id": "aurora/tex/CP.png"
+				},
+				{
+					"id": "aurora/tex/CQ.png"
+				},
+				{
+					"id": "aurora/tex/CR.png"
+				},
+				{
+					"id": "aurora/tex/CS.png"
+				},
+				{
+					"id": "aurora/tex/CT.png"
+				},
+				{
+					"id": "aurora/tex/CU.png"
+				},
+				{
+					"id": "aurora/tex/CV.png"
+				},
+				{
+					"id": "aurora/tex/CW.png"
+				},
+				{
+					"id": "aurora/tex/CX.png"
+				},
+				{
+					"id": "aurora/tex/CY.png"
+				},
+				{
+					"id": "aurora/tex/CZ.png"
+				}
+			]
+		},
+		{
+			"name": "D",
+			"images": [
+				{
+					"id": "aurora/tex/upload.png"
+				},
+				{
+					"id": "aurora/tex/DA.png"
+				},
+				{
+					"id": "aurora/tex/upload.png"
+				},
+				{
+					"id": "aurora/tex/DB.png"
+				},
+				{
+					"id": "aurora/tex/DC.png"
+				},
+				{
+					"id": "aurora/tex/DD.png"
+				},
+				{
+					"id": "aurora/tex/DE.png"
+				},
+				{
+					"id": "aurora/tex/DF.png"
+				},
+				{
+					"id": "aurora/tex/DG.png"
+				},
+				{
+					"id": "aurora/tex/DH.png"
+				},
+				{
+					"id": "aurora/tex/DI.png"
+				},
+				{
+					"id": "aurora/tex/DJ.png"
+				},
+				{
+					"id": "aurora/tex/DK.png"
+				},
+				{
+					"id": "aurora/tex/DL.png"
+				},
+				{
+					"id": "aurora/tex/DM.png"
+				},
+				{
+					"id": "aurora/tex/DN.png"
+				},
+				{
+					"id": "aurora/tex/DO.png"
+				},
+				{
+					"id": "aurora/tex/DP.png"
+				},
+				{
+					"id": "aurora/tex/DQ.png"
+				},
+				{
+					"id": "aurora/tex/DR.png"
+				},
+				{
+					"id": "aurora/tex/DS.png"
+				},
+				{
+					"id": "aurora/tex/DT.png"
+				},
+				{
+					"id": "aurora/tex/DU.png"
+				},
+				{
+					"id": "aurora/tex/DV.png"
+				},
+				{
+					"id": "aurora/tex/DW.png"
+				},
+				{
+					"id": "aurora/tex/DX.png"
+				},
+				{
+					"id": "aurora/tex/DY.png"
+				},
+				{
+					"id": "aurora/tex/DZ.png"
+				}
+			]
+		},
+		{
+			"name": "E",
+			"images": [
+				{
+					"id": "aurora/tex/upload.png"
+				},
+				{
+					"id": "aurora/tex/EA.png"
+				},
+				{
+					"id": "aurora/tex/EB.png"
+				},
+				{
+					"id": "aurora/tex/EC.png"
+				},
+				{
+					"id": "aurora/tex/ED.png"
+				},
+				{
+					"id": "aurora/tex/EE.png"
+				},
+				{
+					"id": "aurora/tex/EF.png"
+				},
+				{
+					"id": "aurora/tex/EG.png"
+				},
+				{
+					"id": "aurora/tex/EH.png"
+				},
+				{
+					"id": "aurora/tex/EI.png"
+				},
+				{
+					"id": "aurora/tex/EJ.png"
+				},
+				{
+					"id": "aurora/tex/EK.png"
+				},
+				{
+					"id": "aurora/tex/EL.png"
+				},
+				{
+					"id": "aurora/tex/EM.png"
+				},
+				{
+					"id": "aurora/tex/EN.png"
+				},
+				{
+					"id": "aurora/tex/EO.png"
+				},
+				{
+					"id": "aurora/tex/EP.png"
+				},
+				{
+					"id": "aurora/tex/EQ.png"
+				},
+				{
+					"id": "aurora/tex/ER.png"
+				},
+				{
+					"id": "aurora/tex/ES.png"
+				},
+				{
+					"id": "aurora/tex/ET.png"
+				},
+				{
+					"id": "aurora/tex/EU.png"
+				},
+				{
+					"id": "aurora/tex/EV.png"
+				},
+				{
+					"id": "aurora/tex/EW.png"
+				},
+				{
+					"id": "aurora/tex/EX.png"
+				},
+				{
+					"id": "aurora/tex/EY.png"
+				},
+				{
+					"id": "aurora/tex/EZ.png"
+				}
+			]
+		}
+	],
+	"umb": [
+		{
+			"id": "A",
+			"arcLayer": "app/tex/A_mask.png",
+			"designArea": [
+				"umb"
+			],
+			"layer": {
+				"umb": "guide_8.svg"
+			},
+			"realSize": {
+				"umb": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 377,
+			"ks": 8,
+			"umbtype": "rain",
+			"description": "*長傘　手開き式\n*親骨の長さ・本数　60ｃｍ　8本骨\n*中棒色　シルバー",
+			"bone": "L-1",
+			"priceumb": 1150,
+			"pricebasic": 6000,
+			"handles": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"handle": 17,
+			"arc": "A_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": false,
+			"brand": "aurora"
+		},
+		{
+			"id": "B",
+			"arcLayer": "app/tex/B_mask.png",
+			"designArea": [
+				"umb"
+			],
+			"layer": {
+				"umb": "guide_8.svg"
+			},
+			"realSize": {
+				"umb": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 378,
+			"ks": 8,
+			"umbtype": "rain",
+			"description": "*長傘　ジャンプ式\n*親骨の長さ・本数　60ｃｍ　8本骨\n*中棒色　シルバー",
+			"bone": "L-2",
+			"priceumb": 1200,
+			"pricebasic": 6000,
+			"handles": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"handle": 17,
+			"arc": "B_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": false,
+			"brand": "aurora"
+		},
+		{
+			"id": "C",
+			"arcLayer": "app/tex/C_mask.png",
+			"designArea": [
+				"umb"
+			],
+			"layer": {
+				"umb": "guide_8.svg"
+			},
+			"realSize": {
+				"umb": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 379,
+			"ks": 8,
+			"umbtype": "rain",
+			"description": "*長傘　手開き式\n*親骨の長さ・本数　65ｃｍ　8本骨\n*中棒色　黒",
+			"bone": "M-1",
+			"priceumb": 1250,
+			"pricebasic": 7000,
+			"handles": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"handle": 0,
+			"arc": "C_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": false,
+			"brand": "aurora"
+		},
+		{
+			"id": "D",
+			"arcLayer": "app/tex/D_mask.png",
+			"designArea": [
+				"umb"
+			],
+			"layer": {
+				"umb": "guide_8.svg"
+			},
+			"realSize": {
+				"umb": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 380,
+			"ks": 8,
+			"umbtype": "rain",
+			"description": "*長傘　ジャンプ式\n*親骨の長さ・本数　65ｃｍ　8本骨\n*中棒色　黒",
+			"bone": "M-2",
+			"priceumb": 1300,
+			"pricebasic": 7000,
+			"handles": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"handle": 0,
+			"arc": "D_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": false,
+			"brand": "aurora"
+		},
+		{
+			"id": "E",
+			"arcLayer": "app/tex/E_mask_v1.png",
+			"size2D": {
+				"umb": 1,
+				"sleeve": 0.9
+			},
+			"designArea": [
+				"umb",
+				"sleeve"
+			],
+			"svg": {
+				"sleeve": "Aurora_E_sleeve.svg"
+			},
+			"layer": {
+				"umb": "guide_6.svg",
+				"sleeve": "E_sleeveArea.png"
+			},
+			"realSize": {
+				"umb": 1,
+				"sleeve": 0.305
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 381,
+			"ks": 6,
+			"umbtype": "rain",
+			"description": "*ミニ傘　日式ミニ\n*親骨の長さ・本数　55ｃｍ　6本骨\n*中棒色　シルバー",
+			"bone": "LM-1",
+			"priceumb": 1200,
+			"pricebasic": 5000,
+			"handles": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				24,
+				25
+			],
+			"handle": 5,
+			"arc": "E_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": true,
+			"brand": "aurora"
+		},
+		{
+			"id": "F",
+			"arcLayer": "app/tex/F_mask.png",
+			"size2D": {
+				"umb": 1,
+				"sleeve": 0.9
+			},
+			"designArea": [
+				"umb",
+				"sleeve"
+			],
+			"svg": {
+				"sleeve": "Aurora_F_sleeve.svg"
+			},
+			"layer": {
+				"umb": "guide_6.svg",
+				"sleeve": "F_sleeveArea.png"
+			},
+			"realSize": {
+				"umb": 1,
+				"sleeve": 0.305
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 382,
+			"ks": 6,
+			"umbtype": "rain",
+			"description": "*ミニ傘　日式ミニ\n*親骨の長さ・本数　60ｃｍ　6本骨\n*中棒色　黒",
+			"bone": "MM-1",
+			"priceumb": 1300,
+			"pricebasic": 5500,
+			"handles": [
+				15,
+				16
+			],
+			"handle": 15,
+			"arc": "F_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": true,
+			"brand": "aurora"
+		},
+		{
+			"id": "G",
+			"arcLayer": "app/tex/G_mask.png",
+			"designArea": [
+				"umb"
+			],
+			"layer": {
+				"umb": "guide_8.svg"
+			},
+			"realSize": {
+				"umb": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 383,
+			"ks": 8,
+			"umbtype": "sun",
+			"description": "*1段スライドショート\n*親骨の長さ・本数　50ｃｍ　8本骨\n*中棒色　シルバー",
+			"bone": "PS-1",
+			"priceumb": 1200,
+			"pricebasic": 7000,
+			"handles": [
+				26,
+				27
+			],
+			"handle": 26,
+			"arc": "G_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": false,
+			"brand": "aurora"
+		},
+		{
+			"id": "H",
+			"arcLayer": "app/tex/H_mask.png",
+			"designArea": [
+				"umb"
+			],
+			"layer": {
+				"umb": "guide_8.svg"
+			},
+			"realSize": {
+				"umb": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 384,
+			"ks": 8,
+			"umbtype": "sun",
+			"description": "*長傘　手開き式\n*親骨の長さ・本数　60ｃｍ　8本骨\n*中棒色　シルバー",
+			"bone": "L-1",
+			"priceumb": 1150,
+			"pricebasic": 6000,
+			"handles": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"handle": 17,
+			"arc": "H_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": false,
+			"brand": "aurora"
+		},
+		{
+			"id": "I",
+			"arcLayer": "app/tex/I_mask.png",
+			"designArea": [
+				"umb"
+			],
+			"layer": {
+				"umb": "guide_8.svg"
+			},
+			"realSize": {
+				"umb": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 385,
+			"ks": 8,
+			"umbtype": "sun",
+			"description": "*長傘　ジャンプ式\n*親骨の長さ・本数　60ｃｍ　8本骨\n*中棒色　シルバー",
+			"bone": "L-2",
+			"priceumb": 1200,
+			"pricebasic": 7000,
+			"handles": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			],
+			"handle": 17,
+			"arc": "I_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": false,
+			"brand": "aurora"
+		},
+		{
+			"id": "J",
+			"arcLayer": "app/tex/J_mask.png",
+			"size2D": {
+				"umb": 1,
+				"sleeve": 0.9
+			},
+			"designArea": [
+				"umb",
+				"sleeve"
+			],
+			"svg": {
+				"sleeve": "Aurora_J_uv_sleeve.svg"
+			},
+			"layer": {
+				"umb": "guide_6.svg",
+				"sleeve": "J_sleeveArea.png"
+			},
+			"realSize": {
+				"umb": 1,
+				"sleeve": 0.305
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 386,
+			"ks": 6,
+			"umbtype": "sun",
+			"description": "*ミニ傘　日式ミニ\n*親骨の長さ・本数　55ｃｍ　6本骨\n*中棒色　シルバー",
+			"bone": "LM-1",
+			"priceumb": 1200,
+			"pricebasic": 6000,
+			"handles": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				24,
+				25
+			],
+			"handle": 5,
+			"arc": "J_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": true,
+			"brand": "aurora"
+		},
+		{
+			"id": "K",
+			"arcLayer": "app/tex/K_mask.png",
+			"size2D": {
+				"umb": 1,
+				"sleeve": 0.9
+			},
+			"designArea": [
+				"umb",
+				"sleeve"
+			],
+			"svg": {
+				"sleeve": "Aurora_K_uv_sleeve.svg"
+			},
+			"layer": {
+				"umb": "guide_6.svg",
+				"sleeve": "K_sleeveArea.png"
+			},
+			"realSize": {
+				"umb": 1,
+				"sleeve": 0.305
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"product_id": 387,
+			"ks": 6,
+			"umbtype": "sun",
+			"description": "*ミニ傘カーボン骨\n*親骨の長さ・本数　50ｃｍ　6本骨\n*中棒色　シルバー",
+			"bone": "PM-1",
+			"priceumb": 1400,
+			"pricebasic": 6000,
+			"handles": [
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				24,
+				25
+			],
+			"handle": 24,
+			"arc": "K_mask.png",
+			"open": true,
+			"fold": true,
+			"sleeve": true,
+			"brand": "aurora"
+		}
+	],
+	"idList": [
+		{
+			"bone": "L-1",
+			"auroraid": "001",
+			"umbtype": "rain",
+			"id": "1APP11011"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "002",
+			"umbtype": "rain",
+			"id": "1APP11021"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "003",
+			"umbtype": "rain",
+			"id": "1APP11031"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "004",
+			"umbtype": "rain",
+			"id": "1APP11041"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "005",
+			"umbtype": "rain",
+			"id": "1APP11051"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "006",
+			"umbtype": "rain",
+			"id": "1APP11061"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "007",
+			"umbtype": "rain",
+			"id": "1APP11071"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "001",
+			"umbtype": "rain",
+			"id": "1APP11012"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "002",
+			"umbtype": "rain",
+			"id": "1APP11022"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "003",
+			"umbtype": "rain",
+			"id": "1APP11032"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "004",
+			"umbtype": "rain",
+			"id": "1APP11042"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "005",
+			"umbtype": "rain",
+			"id": "1APP11052"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "006",
+			"umbtype": "rain",
+			"id": "1APP11062"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "007",
+			"umbtype": "rain",
+			"id": "1APP11072"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 101,
+			"umbtype": "rain",
+			"id": "1APP17213"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 102,
+			"umbtype": "rain",
+			"id": "1APP17223"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 103,
+			"umbtype": "rain",
+			"id": "1APP17233"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 104,
+			"umbtype": "rain",
+			"id": "1APP17243"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 105,
+			"umbtype": "rain",
+			"id": "1APP17253"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 106,
+			"umbtype": "rain",
+			"id": "1APP17263"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 107,
+			"umbtype": "rain",
+			"id": "1APP17273"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 108,
+			"umbtype": "rain",
+			"id": "1APP17283"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 109,
+			"umbtype": "rain",
+			"id": "1APP17293"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 110,
+			"umbtype": "rain",
+			"id": "1APP17303"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 113,
+			"umbtype": "rain",
+			"id": "1APP17313"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 114,
+			"umbtype": "rain",
+			"id": "1APP17323"
+		},
+		{
+			"bone": "PS-1",
+			"auroraid": "013",
+			"umbtype": "sun",
+			"id": "1APP23414"
+		},
+		{
+			"bone": "PS-1",
+			"auroraid": "014",
+			"umbtype": "sun",
+			"id": "1APP23424"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "001",
+			"umbtype": "sun",
+			"id": "1APP21011"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "002",
+			"umbtype": "sun",
+			"id": "1APP21021"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "003",
+			"umbtype": "sun",
+			"id": "1APP21031"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "004",
+			"umbtype": "sun",
+			"id": "1APP21041"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "005",
+			"umbtype": "sun",
+			"id": "1APP21051"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "006",
+			"umbtype": "sun",
+			"id": "1APP21061"
+		},
+		{
+			"bone": "L-1",
+			"auroraid": "007",
+			"umbtype": "sun",
+			"id": "1APP21071"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "001",
+			"umbtype": "sun",
+			"id": "1APP22012"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "002",
+			"umbtype": "sun",
+			"id": "1APP22022"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "003",
+			"umbtype": "sun",
+			"id": "1APP22032"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "004",
+			"umbtype": "sun",
+			"id": "1APP22042"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "005",
+			"umbtype": "sun",
+			"id": "1APP22052"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "006",
+			"umbtype": "sun",
+			"id": "1APP22062"
+		},
+		{
+			"bone": "L-2",
+			"auroraid": "007",
+			"umbtype": "sun",
+			"id": "1APP22072"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 101,
+			"umbtype": "sun",
+			"id": "1APP27213"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 102,
+			"umbtype": "sun",
+			"id": "1APP27223"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 103,
+			"umbtype": "sun",
+			"id": "1APP27233"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 104,
+			"umbtype": "sun",
+			"id": "1APP27243"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 105,
+			"umbtype": "sun",
+			"id": "1APP27253"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 106,
+			"umbtype": "sun",
+			"id": "1APP27263"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 107,
+			"umbtype": "sun",
+			"id": "1APP27273"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 108,
+			"umbtype": "sun",
+			"id": "1APP27283"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 109,
+			"umbtype": "sun",
+			"id": "1APP27293"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 110,
+			"umbtype": "sun",
+			"id": "1APP27303"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 113,
+			"umbtype": "sun",
+			"id": "1APP27313"
+		},
+		{
+			"bone": "LM-1",
+			"auroraid": 114,
+			"umbtype": "sun",
+			"id": "1APP27323"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 101,
+			"umbtype": "sun",
+			"id": "1APP27215"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 102,
+			"umbtype": "sun",
+			"id": "1APP27225"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 103,
+			"umbtype": "sun",
+			"id": "1APP27235"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 104,
+			"umbtype": "sun",
+			"id": "1APP27245"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 105,
+			"umbtype": "sun",
+			"id": "1APP27255"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 106,
+			"umbtype": "sun",
+			"id": "1APP27265"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 107,
+			"umbtype": "sun",
+			"id": "1APP27275"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 108,
+			"umbtype": "sun",
+			"id": "1APP27285"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 109,
+			"umbtype": "sun",
+			"id": "1APP27295"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 110,
+			"umbtype": "sun",
+			"id": "1APP27305"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 113,
+			"umbtype": "sun",
+			"id": "1APP27315"
+		},
+		{
+			"bone": "PM-1",
+			"auroraid": 114,
+			"umbtype": "sun",
+			"id": "1APP27325"
+		},
+		{
+			"bone": "M-1",
+			"auroraid": "008",
+			"umbtype": "rain",
+			"id": "1APP14616"
+		},
+		{
+			"bone": "M-1",
+			"auroraid": "009",
+			"umbtype": "rain",
+			"id": "1APP14626"
+		},
+		{
+			"bone": "M-1",
+			"auroraid": "010",
+			"umbtype": "rain",
+			"id": "1APP14636"
+		},
+		{
+			"bone": "M-1",
+			"auroraid": "011",
+			"umbtype": "rain",
+			"id": "1APP14646"
+		},
+		{
+			"bone": "M-1",
+			"auroraid": "012",
+			"umbtype": "rain",
+			"id": "1APP14656"
+		},
+		{
+			"bone": "M-2",
+			"auroraid": "008",
+			"umbtype": "rain",
+			"id": "1APP14617"
+		},
+		{
+			"bone": "M-2",
+			"auroraid": "009",
+			"umbtype": "rain",
+			"id": "1APP14627"
+		},
+		{
+			"bone": "M-2",
+			"auroraid": "010",
+			"umbtype": "rain",
+			"id": "1APP14637"
+		},
+		{
+			"bone": "M-2",
+			"auroraid": "011",
+			"umbtype": "rain",
+			"id": "1APP14647"
+		},
+		{
+			"bone": "M-2",
+			"auroraid": "012",
+			"umbtype": "rain",
+			"id": "1APP14657"
+		},
+		{
+			"bone": "MM-1",
+			"auroraid": 111,
+			"umbtype": "rain",
+			"id": "1APP18718"
+		},
+		{
+			"bone": "MM-1",
+			"auroraid": 112,
+			"umbtype": "rain",
+			"id": "1APP18728"
+		},
+		{
+			"bone": "silkA",
+			"auroraid": "",
+			"umbtype": "",
+			"id": "2APP52001"
+		},
+		{
+			"bone": "silkE",
+			"auroraid": "",
+			"umbtype": "",
+			"id": "2APP54001"
+		},
+		{
+			"bone": "silkD",
+			"auroraid": "",
+			"umbtype": "",
+			"id": "2APP50001"
+		},
+		{
+			"bone": "silkF",
+			"auroraid": "",
+			"umbtype": "",
+			"id": "2APP55001"
+		},
+		{
+			"bone": "Hat04",
+			"auroraid": "",
+			"umbtype": "",
+			"id": "4APP41000"
+		},
+		{
+			"bone": "Hat05",
+			"auroraid": "",
+			"umbtype": "",
+			"id": "4APP44001"
+		}
+	],
+	"scarf": [
+		{
+			"id": "silkA",
+			"ratio": 1,
+			"edge": 88,
+			"description": "<br>スクエア　88cm×88cm<br>素材：ポリエステル100%",
+			"gender": "female",
+			"productId": 94,
+			"type2dList": [
+				"A1",
+				"A1e",
+				"A2",
+				"A2e",
+				"A3",
+				"A3e",
+				"emoji",
+				"handwrite",
+				"fonts"
+			],
+			"designArea": [
+				"umb"
+			],
+			"realSize": {
+				"umb": 0.88
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 1
+			},
+			"sprite": "silkA",
+			"brand": "aurora",
+			"silkstatus": 4,
+			"colorList": [
+				"#33353B",
+				"#ABB1B3",
+				"#BEAE9A",
+				"#838487",
+				"#E9EAE8",
+				"#B93A32",
+				"#343A57",
+				"#666F58",
+				"#EFEFD0",
+				"#672E3B",
+				"#E1B9BA"
+			],
+			"limit": 2000
+		},
+		{
+			"id": "silkE",
+			"ratio": 0.294,
+			"edge": 180,
+			"description": "<br>ロング　53cm×180cm<br>素材：ポリエステル100%",
+			"gender": "female",
+			"productId": 94,
+			"type2dList": [
+				"B1",
+				"B1e",
+				"B4",
+				"B4e",
+				"B2",
+				"B2e",
+				"B3",
+				"B3e",
+				"emoji",
+				"handwrite",
+				"fonts"
+			],
+			"designArea": [
+				"umb"
+			],
+			"realSize": {
+				"umb": 1.8
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 1
+			},
+			"sprite": "silkB",
+			"brand": "aurora",
+			"silkstatus": 4,
+			"colorList": [
+				"#33353B",
+				"#ABB1B3",
+				"#BEAE9A",
+				"#838487",
+				"#E9EAE8",
+				"#B93A32",
+				"#343A57",
+				"#666F58",
+				"#EFEFD0",
+				"#672E3B",
+				"#E1B9BA"
+			],
+			"limit": 3000
+		},
+		{
+			"id": "silkD",
+			"ratio": 1,
+			"edge": 53,
+			"description": "<br>プチスクエア　53cm×53cm<br>素材：ポリエステル100%",
+			"gender": "female",
+			"productId": 94,
+			"type2dList": [
+				"A1",
+				"A1e",
+				"A2",
+				"A2e",
+				"A3",
+				"A3e",
+				"emoji",
+				"handwrite",
+				"fonts"
+			],
+			"designArea": [
+				"umb"
+			],
+			"realSize": {
+				"umb": 1.8
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 1
+			},
+			"sprite": "silkD",
+			"brand": "aurora",
+			"silkstatus": 4,
+			"colorList": [
+				"#33353B",
+				"#ABB1B3",
+				"#BEAE9A",
+				"#838487",
+				"#E9EAE8",
+				"#B93A32",
+				"#343A57",
+				"#666F58",
+				"#EFEFD0",
+				"#672E3B",
+				"#E1B9BA"
+			],
+			"limit": 2000
+		},
+		{
+			"id": "silkA1",
+			"ratio": 1,
+			"edge": 88,
+			"description": "<br>スクエア　88cm×88cm<br>素材：ポリエステル100%",
+			"gender": "female",
+			"productId": 94,
+			"type2dList": [
+				"A1",
+				"A1e",
+				"A2",
+				"A2e",
+				"A3",
+				"A3e",
+				"emoji",
+				"handwrite",
+				"fonts"
+			],
+			"designArea": [
+				"umb"
+			],
+			"realSize": {
+				"umb": 0.88
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 1
+			},
+			"sprite": "silkA",
+			"brand": "aurora",
+			"silkstatus": 4,
+			"colorList": [
+				"#33353B",
+				"#ABB1B3",
+				"#BEAE9A",
+				"#838487",
+				"#E9EAE8",
+				"#B93A32",
+				"#343A57",
+				"#666F58",
+				"#EFEFD0",
+				"#672E3B",
+				"#E1B9BA"
+			],
+			"limit": 2000
+		},
+		{
+			"id": "silkE1",
+			"ratio": 0.294,
+			"edge": 180,
+			"description": "<br>ロング　53cm×180cm<br>素材：ポリエステル100%",
+			"gender": "female",
+			"productId": 94,
+			"type2dList": [
+				"B1",
+				"B1e",
+				"B4",
+				"B4e",
+				"B2",
+				"B2e",
+				"B3",
+				"B3e",
+				"emoji",
+				"handwrite",
+				"fonts"
+			],
+			"designArea": [
+				"umb"
+			],
+			"realSize": {
+				"umb": 1.8
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 1
+			},
+			"sprite": "silkB",
+			"brand": "aurora",
+			"silkstatus": 4,
+			"colorList": [
+				"#33353B",
+				"#ABB1B3",
+				"#BEAE9A",
+				"#838487",
+				"#E9EAE8",
+				"#B93A32",
+				"#343A57",
+				"#666F58",
+				"#EFEFD0",
+				"#672E3B",
+				"#E1B9BA"
+			],
+			"limit": 3000
+		},
+		{
+			"id": "silkD1",
+			"ratio": 1,
+			"edge": 53,
+			"description": "<br>プチスクエア　53cm×53cm<br>素材：ポリエステル100%",
+			"gender": "female",
+			"productId": 94,
+			"type2dList": [
+				"A1",
+				"A1e",
+				"A2",
+				"A2e",
+				"A3",
+				"A3e",
+				"emoji",
+				"handwrite",
+				"fonts"
+			],
+			"designArea": [
+				"umb"
+			],
+			"realSize": {
+				"umb": 1.8
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 1
+			},
+			"sprite": "silkD",
+			"brand": "aurora",
+			"silkstatus": 4,
+			"colorList": [
+				"#33353B",
+				"#ABB1B3",
+				"#BEAE9A",
+				"#838487",
+				"#E9EAE8",
+				"#B93A32",
+				"#343A57",
+				"#666F58",
+				"#EFEFD0",
+				"#672E3B",
+				"#E1B9BA"
+			],
+			"limit": 2000
+		}
+	],
+	"gift": [
+		{
+			"id": "Hat04",
+			"defaultDesign": {
+				"hat_6abc": "20220411102148_gmo_(gift_hat_6abc)-jp-0",
+				"hat_6s": "20220411111831_gmo_(gift_hat_6s)-jp-0"
+			},
+			"description": "キャップ\nツバ幅：約 7cm\nサイズ：XS / S / M / L /XL（サイズ調整付）\n素　材：ポリエステル 80% コットン 20%\n",
+			"model": {
+				"hat_6a6": "Hat04_UV2",
+				"hat_6abc": "Hat04_UV2",
+				"hat_6s": "Hat04_UV2"
+			},
+			"type2dList": [
+				"hat_6w",
+				"hat_6a3",
+				"hat_3abc",
+				"hat_6a6",
+				"hat_6abc",
+				"hat_6s",
+				"fonts",
+				"emoji",
+				"handwrite"
+			],
+			"designArea": [
+				"umb",
+				"sleeve",
+				"logoend",
+				"belt1",
+				"belt2"
+			],
+			"areas": [
+				{
+					"name": "hat1_A",
+					"type": "umb"
+				},
+				{
+					"name": "hat1_B",
+					"type": "sleeve"
+				},
+				{
+					"name": "hat1_C",
+					"type": "logoend"
+				},
+				{
+					"name": "hat1_D",
+					"type": "belt1"
+				},
+				{
+					"name": "hat1_E",
+					"type": "belt2"
+				}
+			],
+			"material": {
+				"umb": "umb.png",
+				"sleeve": "sleeve.png",
+				"logoend": "logoend.png",
+				"belt1": "hat04_label@4x.png",
+				"belt2": "hat04_label@4x_.png"
+			},
+			"svg_hat_6w": {
+				"umb": [
+					{
+						"svg": "hat04_uv_umb_6w.svg",
+						"angle": 0
+					}
+				],
+				"belt1": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"belt2": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"sleeve": "hat04_uv_sleeve.svg",
+				"logoend": "hat04_uv_sleeve_.svg",
+				"angle": {
+					"umb": 0
+				},
+				"moveAngle": 0,
+				"wrapperAngle": 0
+			},
+			"svg_hat_6a2": {
+				"umb": [
+					{
+						"svg": "hat1_6a2_1.svg",
+						"angle": 0
+					},
+					{
+						"svg": "hat1_6a2_2.svg",
+						"angle": 0
+					}
+				],
+				"belt1": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"belt2": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"sleeve": "hat04_uv_sleeve.svg",
+				"logoend": "hat04_uv_sleeve_.svg",
+				"wrapperAngle": 0,
+				"angle": {
+					"umb": 0
+				}
+			},
+			"svg_hat_6a3": {
+				"umb": [
+					{
+						"svg": "hat1_6a3_1.svg",
+						"tag": 1,
+						"angle": 0
+					},
+					{
+						"svg": "hat1_6a3_2.svg",
+						"tag": 1,
+						"angle": 0
+					},
+					{
+						"svg": "hat1_6a3_3.svg",
+						"tag": 1,
+						"angle": 0
+					}
+				],
+				"belt1": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"belt2": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"sleeve": "hat04_uv_sleeve.svg",
+				"logoend": "hat04_uv_sleeve_.svg",
+				"angle": {
+					"umb": 0
+				},
+				"moveAngle": -30,
+				"wrapperAngle": 30
+			},
+			"svg_hat_3abc": {
+				"umb": [
+					{
+						"svg": "hat1_6a3_1.svg",
+						"tag": 1,
+						"angle": 0
+					},
+					{
+						"svg": "hat1_6a3_2.svg",
+						"tag": 2,
+						"angle": 0
+					},
+					{
+						"svg": "hat1_6a3_3.svg",
+						"tag": 3,
+						"angle": 0
+					}
+				],
+				"belt1": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"belt2": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"sleeve": "hat04_uv_sleeve.svg",
+				"logoend": "hat04_uv_sleeve_.svg",
+				"angle": {
+					"umb": 0
+				},
+				"moveAngle": -30,
+				"wrapperAngle": 30
+			},
+			"svg_hat_6a6": {
+				"umb": [
+					{
+						"svg": "Hat04_U2_1.svg",
+						"tag": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_2.svg",
+						"tag": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_3.svg",
+						"tag": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_4.svg",
+						"tag": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_5.svg",
+						"tag": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_6.svg",
+						"tag": 1,
+						"angle": -30
+					}
+				],
+				"belt1": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"belt2": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"sleeve": "hat04_uv_sleeve.svg",
+				"logoend": "hat04_uv_sleeve_.svg",
+				"angle": {
+					"umb": 30
+				},
+				"moveAngle": -60,
+				"isUv2": true,
+				"wrapperAngle": 90
+			},
+			"svg_hat_6abc": {
+				"umb": [
+					{
+						"svg": "Hat04_U2_1.svg",
+						"tag": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_2.svg",
+						"tag": 2,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_3.svg",
+						"tag": 3,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_4.svg",
+						"tag": 3,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_5.svg",
+						"tag": 2,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_6.svg",
+						"tag": 1,
+						"angle": -30
+					}
+				],
+				"belt1": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"belt2": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"sleeve": "hat04_uv_sleeve.svg",
+				"logoend": "hat04_uv_sleeve_.svg",
+				"angle": {
+					"umb": 30
+				},
+				"moveAngle": -60,
+				"isUv2": true,
+				"wrapperAngle": 90
+			},
+			"svg_hat_6s": {
+				"umb": [
+					{
+						"svg": "Hat04_U2_1.svg",
+						"mirror": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_2.svg",
+						"mirror": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_3.svg",
+						"mirror": 1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_4.svg",
+						"mirror": -1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_5.svg",
+						"mirror": -1,
+						"angle": -30
+					},
+					{
+						"svg": "Hat04_U2_6.svg",
+						"mirror": -1,
+						"angle": -30
+					}
+				],
+				"belt1": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"belt2": [
+					{
+						"svg": "hat04_uv_belt.svg",
+						"angle": 0,
+						"scale": 1.02
+					}
+				],
+				"sleeve": "hat04_uv_sleeve.svg",
+				"logoend": "hat04_uv_sleeve_.svg",
+				"angle": {
+					"umb": 30
+				},
+				"wrapperAngle": 90,
+				"moveAngle": -60,
+				"isUv2": true
+			},
+			"realSize": {
+				"umb": 1,
+				"sleeve": 1,
+				"logoend": 1,
+				"belt1": 1,
+				"belt2": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 0.85,
+				"logoend": 0.85,
+				"belt1": 1,
+				"belt2": 1
+			},
+			"brand": "aurora",
+			"areabtn": true,
+			"ks": 6
+		},
+		{
+			"id": "Hat05",
+			"description": "バケットハット\nツバ幅：約 7cm 　クラウン高さ：約 8.5cm\nサイズ：XS / S / M / L /XL（サイズ調整付）\n素　材：ポリエステル 80% コットン 20%\n",
+			"type2dList": [
+				"fonts",
+				"emoji",
+				"handwrite"
+			],
+			"designArea": [
+				"umb",
+				"sleeve",
+				"belt",
+				"logoend"
+			],
+			"areas": [
+				{
+					"name": "hat2_A",
+					"type": "umb"
+				},
+				{
+					"name": "hat2_B",
+					"type": "sleeve"
+				},
+				{
+					"name": "hat2_C",
+					"type": "belt"
+				},
+				{
+					"name": "hat2_D",
+					"type": "logoend"
+				}
+			],
+			"material": {
+				"umb": "hat05_uv_umb.png",
+				"sleeve": "hat05_uv_sleeve.png",
+				"logoend": "hat05_uv_logoend.png",
+				"belt": "hat05_uv_belt.png"
+			},
+			"svg": {
+				"umb": "hat05_uv_umb.svg",
+				"sleeve": [
+					{
+						"svg": "hat05_uv_sleeve_down.svg",
+						"offset": 0,
+						"angle": 0,
+						"hitArea": [
+							0,
+							1024,
+							1024,
+							1024,
+							1024,
+							512,
+							0,
+							512
+						]
+					},
+					{
+						"svg": "hat05_uv_sleeve_up.svg",
+						"offset": 0,
+						"angle": 0,
+						"hitArea": [
+							0,
+							512,
+							1024,
+							512,
+							1024,
+							0,
+							0,
+							0
+						]
+					}
+				],
+				"belt": [
+					{
+						"svg": "hat05_uv_belt_left.svg",
+						"offset": 0,
+						"angle": 0,
+						"hitArea": [
+							512,
+							1024,
+							0,
+							1024,
+							0,
+							0,
+							512,
+							0
+						]
+					},
+					{
+						"svg": "hat05_uv_belt_right.svg",
+						"offset": 0,
+						"angle": 0,
+						"hitArea": [
+							512,
+							1024,
+							1024,
+							1024,
+							1024,
+							0,
+							512,
+							0
+						]
+					}
+				],
+				"logoend": [
+					{
+						"svg": "hat05_uv_sleeve_up.svg",
+						"offset": 0,
+						"angle": 0,
+						"hitArea": [
+							0,
+							512,
+							1024,
+							512,
+							1024,
+							0,
+							0,
+							0
+						]
+					},
+					{
+						"svg": "hat05_uv_sleeve_down.svg",
+						"offset": 0,
+						"angle": 0,
+						"hitArea": [
+							0,
+							1024,
+							1024,
+							1024,
+							1024,
+							512,
+							0,
+							512
+						]
+					}
+				],
+				"wrapperAngle": 0,
+				"angle": 0,
+				"moveAngle": 0
+			},
+			"realSize": {
+				"umb": 1,
+				"sleeve": 1,
+				"belt": 1,
+				"logoend": 1
+			},
+			"title": "3Dシミュレーションは拡大縮小、回転が出来ます",
+			"size2D": {
+				"umb": 0.85,
+				"sleeve": 0.85,
+				"belt": 0.98,
+				"logoend": 0.85
+			},
+			"brand": "aurora",
+			"areabtn": true,
+			"ks": 6
+		}
+	],
+	"handles": [
+		{
+			"id": 0,
+			"auroraid": "011",
+			"customid": "hb1",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hb1",
+			"option_id": 62,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "紳士用",
+			"uid": "011",
+			"color": "濃茶",
+			"material": "ハンドル：楓",
+			"price": 1500,
+			"brand": "aurora"
+		},
+		{
+			"id": 1,
+			"auroraid": "008",
+			"customid": "hb2",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hb2",
+			"option_id": 63,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "紳士用",
+			"uid": "008",
+			"color": "ブラック",
+			"material": "ハンドル：合皮巻",
+			"price": 1000,
+			"brand": "aurora"
+		},
+		{
+			"id": 2,
+			"auroraid": "012",
+			"customid": "hb3",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hb3",
+			"option_id": 64,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "紳士用",
+			"uid": "012",
+			"color": "ブラック",
+			"material": "ハンドル：ＡＢＳ成型",
+			"price": 950,
+			"brand": "aurora"
+		},
+		{
+			"id": 3,
+			"auroraid": "010",
+			"customid": "hb4",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hb1",
+			"option_id": 65,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "紳士用",
+			"uid": "010",
+			"color": "中茶",
+			"material": "ハンドル：楓",
+			"price": 1500,
+			"brand": "aurora"
+		},
+		{
+			"id": 4,
+			"auroraid": "009",
+			"customid": "hb5",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hb1",
+			"option_id": 66,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "紳士用",
+			"uid": "009",
+			"color": "白木",
+			"material": "ハンドル：楓",
+			"price": 1500,
+			"brand": "aurora"
+		},
+		{
+			"id": 5,
+			"auroraid": 109,
+			"customid": "hm1",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm1_v1",
+			"option_id": 67,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 109,
+			"color": "ベージュ",
+			"material": "ハンドル：合皮巻",
+			"price": 500,
+			"brand": "aurora"
+		},
+		{
+			"id": 6,
+			"auroraid": 107,
+			"customid": "hm2",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm1_v1",
+			"option_id": 68,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 107,
+			"color": "ネイビー",
+			"material": "ハンドル：合皮巻",
+			"price": 500,
+			"brand": "aurora"
+		},
+		{
+			"id": 7,
+			"auroraid": 110,
+			"customid": "hm3",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm1_v1",
+			"option_id": 69,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 110,
+			"color": "ブラック",
+			"material": "ハンドル：合皮巻",
+			"price": 500,
+			"brand": "aurora"
+		},
+		{
+			"id": 8,
+			"auroraid": 108,
+			"customid": "hm4",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm1_v1",
+			"option_id": 70,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 108,
+			"color": "レッド",
+			"material": "ハンドル：合皮巻",
+			"price": 500,
+			"brand": "aurora"
+		},
+		{
+			"id": 9,
+			"auroraid": 104,
+			"customid": "hm5",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm5_v1",
+			"option_id": 71,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 104,
+			"color": "ブラック",
+			"material": "ハンドル：ＡＢＳ成型",
+			"price": 300,
+			"brand": "aurora"
+		},
+		{
+			"id": 10,
+			"auroraid": 105,
+			"customid": "hm6",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm5_v1",
+			"option_id": 72,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 105,
+			"color": "シルバー",
+			"material": "ハンドル：ＡＢＳ成型",
+			"price": 300,
+			"brand": "aurora"
+		},
+		{
+			"id": 11,
+			"auroraid": 106,
+			"customid": "hm7",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm5_v1",
+			"option_id": 73,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 106,
+			"color": "透明",
+			"material": "ハンドル：ＡＢＳ成型",
+			"price": 400,
+			"brand": "aurora"
+		},
+		{
+			"id": 12,
+			"auroraid": 101,
+			"customid": "hm8",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm8_v1",
+			"option_id": 74,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 101,
+			"color": "白木",
+			"material": "ハンドル：楓",
+			"price": 600,
+			"brand": "aurora"
+		},
+		{
+			"id": 13,
+			"auroraid": 102,
+			"customid": "hm9",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm8_v1",
+			"option_id": 75,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 102,
+			"color": "中茶",
+			"material": "ハンドル：楓",
+			"price": 600,
+			"brand": "aurora"
+		},
+		{
+			"id": 14,
+			"auroraid": 103,
+			"customid": "hm10",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm8_v1",
+			"option_id": 76,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 103,
+			"color": "濃茶",
+			"material": "ハンドル：楓",
+			"price": 600,
+			"brand": "aurora"
+		},
+		{
+			"id": 15,
+			"auroraid": 111,
+			"customid": "hm11",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm8_v1",
+			"option_id": 77,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "紳士用",
+			"uid": 111,
+			"color": "中茶",
+			"material": "ハンドル：楓",
+			"price": 600,
+			"brand": "aurora"
+		},
+		{
+			"id": 16,
+			"auroraid": 112,
+			"customid": "hm12",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "hm8_v1",
+			"option_id": 78,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "紳士用",
+			"uid": 112,
+			"color": "濃茶",
+			"material": "ハンドル：楓",
+			"price": 600,
+			"brand": "aurora"
+		},
+		{
+			"id": 17,
+			"auroraid": "003",
+			"customid": "hs1",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hs1",
+			"option_id": 79,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "婦人用",
+			"uid": "003",
+			"color": "ベージュ",
+			"material": "ハンドル：合皮巻",
+			"price": 950,
+			"brand": "aurora"
+		},
+		{
+			"id": 18,
+			"auroraid": "001",
+			"customid": "hs2",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hs1",
+			"option_id": 80,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "婦人用",
+			"uid": "001",
+			"color": "ネイビー",
+			"material": "ハンドル：合皮巻",
+			"price": 950,
+			"brand": "aurora"
+		},
+		{
+			"id": 19,
+			"auroraid": "004",
+			"customid": "hs3",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hs1",
+			"option_id": 81,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "婦人用",
+			"uid": "004",
+			"color": "ブラック",
+			"material": "ハンドル：合皮巻",
+			"price": 950,
+			"brand": "aurora"
+		},
+		{
+			"id": 20,
+			"auroraid": "002",
+			"customid": "hs4",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hs1",
+			"option_id": 82,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "婦人用",
+			"uid": "002",
+			"color": "レッド",
+			"material": "ハンドル：合皮巻",
+			"price": 950,
+			"brand": "aurora"
+		},
+		{
+			"id": 21,
+			"auroraid": "007",
+			"customid": "hs5",
+			"version": "_v2",
+			"size": 0.208,
+			"modelid": "hs5",
+			"option_id": 83,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "婦人用",
+			"uid": "007",
+			"color": "濃茶",
+			"material": "ハンドル：楓",
+			"price": 1500,
+			"brand": "aurora"
+		},
+		{
+			"id": 22,
+			"auroraid": "006",
+			"customid": "hs6",
+			"version": "_v1",
+			"size": 0.208,
+			"modelid": "hs5",
+			"option_id": 83,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "婦人用",
+			"uid": "006",
+			"color": "中茶",
+			"material": "ハンドル：楓",
+			"price": 1500,
+			"brand": "aurora"
+		},
+		{
+			"id": 23,
+			"auroraid": "005",
+			"customid": "hs7",
+			"version": "_v2",
+			"size": 0.208,
+			"modelid": "hs5",
+			"option_id": 84,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "婦人用",
+			"uid": "005",
+			"color": "白木",
+			"material": "ハンドル：楓",
+			"price": 1500,
+			"brand": "aurora"
+		},
+		{
+			"id": 24,
+			"auroraid": 114,
+			"customid": "hm13",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "Aurora_Q_wood_02",
+			"option_id": 85,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 114,
+			"color": "白木",
+			"material": "ハンドル：楓",
+			"price": 600,
+			"brand": "aurora"
+		},
+		{
+			"id": 25,
+			"auroraid": 113,
+			"customid": "hm14",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "Aurora_Q_wood_03",
+			"option_id": 86,
+			"ks": 6,
+			"cat": "ミニ傘",
+			"style": "婦人用",
+			"uid": 113,
+			"color": "ナチュラル",
+			"material": "ハンドル：寒竹",
+			"price": 1500,
+			"brand": "aurora"
+		},
+		{
+			"id": 26,
+			"auroraid": "014",
+			"customid": "hs8",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "Aurora_J_wood_02",
+			"option_id": 87,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "紳士用",
+			"uid": "014",
+			"color": "白木",
+			"material": "ハンドル：楓",
+			"price": 1300,
+			"brand": "aurora"
+		},
+		{
+			"id": 27,
+			"auroraid": "013",
+			"customid": "hs9",
+			"version": "_v1",
+			"size": 0.05,
+			"modelid": "Aurora_J_wood_03",
+			"option_id": 88,
+			"ks": 8,
+			"cat": "長傘",
+			"style": "紳士用",
+			"uid": "013",
+			"color": "ナチュラル",
+			"material": "ハンドル：寒竹",
+			"price": 1500,
+			"brand": "aurora"
+		}
+	],
+	"setting": {
+		"hideumblist": {
+			"value": false,
+			"desc": "3D界面是否隐藏伞型列表"
+		},
+		"sliderks": {
+			"value": false,
+			"desc": "2D界面是否显示K数滑动条"
+		},
+		"defaultTexture": {
+			"desc": "默认贴图"
+		},
+		"cuttool": {
+			"value": true,
+			"desc": "是否显示工具版"
+		},
+		"lockGallery": {
+			"value": true,
+			"desc": "图库不能旋转缩放"
+		},
+		"shareButton": {
+			"value": true,
+			"desc": "3D界面分享按钮"
+		},
+		"needLogin": {
+			"value": true,
+			"desc": "需要登录"
+		},
+		"saveButton": {
+			"value": true,
+			"desc": "保存按钮"
+		},
+		"addLogo": {
+			"value": false,
+			"desc": "添加logo按钮"
+		},
+		"addToCart": {
+			"value": true,
+			"desc": "保存时添加到商城购物车"
+		},
+		"defaultText": {
+			"desc": "默认文字",
+			"value": "YOUSEE"
+		},
+		"orderInfo": {
+			"value": false,
+			"desc": "上传订单附加信息"
+		},
+		"ksList": {
+			"value": [
+				6
+			],
+			"desc": "支持的k数列表"
+		},
+		"type2dList": {
+			"value": [
+				"6w",
+				"6a6"
+			],
+			"desc": "接片方式"
+		},
+		"history": {
+			"value": false,
+			"desc": "2d恢复"
+		},
+		"sticker": {
+			"value": true,
+			"desc": "贴纸"
+		}
+	},
+	"fontList": [
+		{
+			"name": "Hosohuwafont",
+			"url": "https://ucjpacc.shareuc.com/web/font/Hosohuwafont.ttf"
+		},
+		{
+			"name": "Mamelon",
+			"url": "https://ucjpacc.shareuc.com/web/font/Mamelon.otf"
+		},
+		{
+			"name": "Noto Sans JP",
+			"url": "https://ucjpacc.shareuc.com/web/font/NotoSansJP-Regular.otf"
+		},
+		{
+			"name": "New Tegomin",
+			"url": "https://ucjpacc.shareuc.com/web/font/NewTegomin-Regular.ttf"
+		},
+		{
+			"name": "DotGothic16",
+			"url": "https://ucjpacc.shareuc.com/web/font/DotGothic16-Regular.ttf"
+		},
+		{
+			"name": "RocknRoll One",
+			"url": "https://ucjpacc.shareuc.com/web/font/RocknRollOne-Regular.ttf"
+		},
+		{
+			"name": "Reggae One",
+			"url": "https://ucjpacc.shareuc.com/web/font/ReggaeOne-Regular.ttf"
+		},
+		{
+			"name": "Potta One",
+			"url": "https://ucjpacc.shareuc.com/web/font/PottaOne-Regular.ttf"
+		},
+		{
+			"name": "Train One",
+			"url": "https://ucjpacc.shareuc.com/web/font/TrainOne-Regular.ttf"
+		},
+		{
+			"name": "Dela Gothic One",
+			"url": "https://ucjpacc.shareuc.com/web/font/DelaGothicOne-Regular.ttf"
+		},
+		{
+			"name": "Otomanopee One Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Otomanopee One Regular.ttf"
+		},
+		{
+			"name": "Reggae One Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Reggae One Regular.ttf"
+		},
+		{
+			"name": "Hachi Maru Pop Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Hachi Maru Pop Regular.ttf"
+		},
+		{
+			"name": "MotoyaLCedar W3 mono",
+			"url": "https://ucjpacc.shareuc.com/web/font/MotoyaLCedar W3 mono.ttf"
+		},
+		{
+			"name": "DotGothic16 Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/DotGothic16 Regular.ttf"
+		},
+		{
+			"name": "Yomogi Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Yomogi Regular.ttf"
+		},
+		{
+			"name": "Kiwi Maru Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Kiwi Maru Regular.ttf"
+		},
+		{
+			"name": "Dela Gothic One Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Dela Gothic One Regular.ttf"
+		},
+		{
+			"name": "Klee One Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Klee One Regular.ttf"
+		},
+		{
+			"name": "Train One Regular",
+			"url": "https://ucjpacc.shareuc.com/web/font/Train One Regular.ttf"
+		}
+	],
+	"colors": [
+		{
+			"hex": "#dedaea",
+			"pantone": "7443C"
+		},
+		{
+			"hex": "#d8c5e6",
+			"pantone": "263C"
+		},
+		{
+			"hex": "#c7bcd1",
+			"pantone": "665C"
+		},
+		{
+			"hex": "#d5bfcd",
+			"pantone": "5165C"
+		},
+		{
+			"hex": "#f2daeb",
+			"pantone": "7436C"
+		},
+		{
+			"hex": "#f9c2cb",
+			"pantone": "699C"
+		},
+		{
+			"hex": "#f4c2b3",
+			"pantone": "489C"
+		},
+		{
+			"hex": "#e8bbc2",
+			"pantone": "502C"
+		},
+		{
+			"hex": "#fae99d",
+			"pantone": "600C"
+		},
+		{
+			"hex": "#f9dab3",
+			"pantone": "7506C"
+		},
+		{
+			"hex": "#b9ccc4",
+			"pantone": "622C"
+		},
+		{
+			"hex": "#b8dbd3",
+			"pantone": "566C"
+		},
+		{
+			"hex": "#a0d0cb",
+			"pantone": "7464C"
+		},
+		{
+			"hex": "#bdd5e8",
+			"pantone": "544C"
+		},
+		{
+			"hex": "#c5d4e3",
+			"pantone": "643C"
+		},
+		{
+			"hex": "#bdc4da",
+			"pantone": "7450C"
+		},
+		{
+			"hex": "#bdb9b0",
+			"pantone": "413C"
+		},
+		{
+			"hex": "#bec6c4",
+			"pantone": "441C"
+		},
+		{
+			"hex": "#b2afc4",
+			"pantone": "5295C"
+		},
+		{
+			"hex": "#c8afbc",
+			"pantone": "5225C"
+		},
+		{
+			"hex": "#dda3ab",
+			"pantone": "693C"
+		},
+		{
+			"hex": "#ceadd0",
+			"pantone": "5215C"
+		},
+		{
+			"hex": "#d0a1a6",
+			"pantone": "5215C"
+		},
+		{
+			"hex": "#b095a6",
+			"pantone": "5215C"
+		},
+		{
+			"hex": "#c4cf9c",
+			"pantone": "579C"
+		},
+		{
+			"hex": "#decd8e",
+			"pantone": "615C"
+		},
+		{
+			"hex": "#5b7f72",
+			"pantone": "5555C"
+		},
+		{
+			"hex": "#bdc4da",
+			"pantone": "7450C"
+		},
+		{
+			"hex": "#9fb2c9",
+			"pantone": "7450C"
+		},
+		{
+			"hex": "#8b88a3",
+			"pantone": "5285C"
+		},
+		{
+			"hex": "#ab989d",
+			"pantone": "436C"
+		},
+		{
+			"hex": "#577e95",
+			"pantone": "5415C"
+		},
+		{
+			"hex": "#c8bbb6",
+			"pantone": "406C"
+		},
+		{
+			"hex": "#baa99a",
+			"pantone": "7529C"
+		},
+		{
+			"hex": "#9bb9ae",
+			"pantone": "623C"
+		},
+		{
+			"hex": "#b8a77f",
+			"pantone": "452C"
+		},
+		{
+			"hex": "#a8a369",
+			"pantone": "5777C"
+		},
+		{
+			"hex": "#918b4b",
+			"pantone": "5767C"
+		},
+		{
+			"hex": "#716f30",
+			"pantone": "5757C"
+		},
+		{
+			"hex": "#61504e",
+			"pantone": "411C"
+		},
+		{
+			"hex": "#e9d5d4",
+			"pantone": "7604C"
+		},
+		{
+			"hex": "#f4c2b3",
+			"pantone": "489C"
+		},
+		{
+			"hex": "#c6a293",
+			"pantone": "4735C"
+		},
+		{
+			"hex": "#887875",
+			"pantone": "409C"
+		},
+		{
+			"hex": "#e1b28e",
+			"pantone": "727C"
+		},
+		{
+			"hex": "#c59474",
+			"pantone": "6455C"
+		},
+		{
+			"hex": "#9a775e",
+			"pantone": "7504C"
+		},
+		{
+			"hex": "#935928",
+			"pantone": "464C"
+		},
+		{
+			"hex": "#d2b4a8",
+			"pantone": "4745C"
+		},
+		{
+			"hex": "#e9bec4",
+			"pantone": "692C"
+		},
+		{
+			"hex": "#d0a1a6",
+			"pantone": "5013C"
+		},
+		{
+			"hex": "#e7b6a6",
+			"pantone": "7513C"
+		},
+		{
+			"hex": "#fabe9b",
+			"pantone": "473C"
+		},
+		{
+			"hex": "#d2c594",
+			"pantone": "5865C"
+		},
+		{
+			"hex": "#c2c393",
+			"pantone": "7493C"
+		},
+		{
+			"hex": "#a8a369",
+			"pantone": "7493C"
+		},
+		{
+			"hex": "#f9dab3",
+			"pantone": "1215C"
+		},
+		{
+			"hex": "#ffd674",
+			"pantone": "1215C"
+		},
+		{
+			"hex": "#ffd19a",
+			"pantone": "7507C"
+		},
+		{
+			"hex": "#e2bea6",
+			"pantone": "4675C"
+		},
+		{
+			"hex": "#e9b77f",
+			"pantone": "7508C"
+		},
+		{
+			"hex": "#efb68b",
+			"pantone": "720C"
+		},
+		{
+			"hex": "#b58878",
+			"pantone": "4725C"
+		},
+		{
+			"hex": "#b47c58",
+			"pantone": "4546C"
+		},
+		{
+			"hex": "#aad585",
+			"pantone": "359C"
+		},
+		{
+			"hex": "#aa97db",
+			"pantone": "2645C"
+		},
+		{
+			"hex": "#f579c4",
+			"pantone": "231C"
+		},
+		{
+			"hex": "#fb9bbb",
+			"pantone": "1905C"
+		},
+		{
+			"hex": "#ffdb42",
+			"pantone": "114C"
+		},
+		{
+			"hex": "#35c2e0",
+			"pantone": "637C"
+		},
+		{
+			"hex": "#ff8d6b",
+			"pantone": "1635C"
+		},
+		{
+			"hex": "#ff8189",
+			"pantone": "177C"
+		},
+		{
+			"hex": "#cee66e",
+			"pantone": "374C"
+		},
+		{
+			"hex": "#c0a7e2",
+			"pantone": "264C"
+		},
+		{
+			"hex": "#c88cda",
+			"pantone": "2572C"
+		},
+		{
+			"hex": "#56d0e0",
+			"pantone": "3105C"
+		},
+		{
+			"hex": "#8085d6",
+			"pantone": "2715C"
+		},
+		{
+			"hex": "#ffc459",
+			"pantone": "135C"
+		},
+		{
+			"hex": "#ff647d",
+			"pantone": "1777C"
+		},
+		{
+			"hex": "#f76278",
+			"pantone": "709C"
+		},
+		{
+			"hex": "#fc0fff",
+			"pantone": "116C"
+		},
+		{
+			"hex": "#dbdc00",
+			"pantone": "389C"
+		},
+		{
+			"hex": "#7fd44f",
+			"pantone": "7488C"
+		},
+		{
+			"hex": "#77be4e",
+			"pantone": "360C"
+		},
+		{
+			"hex": "#00b18a",
+			"pantone": "464C"
+		},
+		{
+			"hex": "#78dfc2",
+			"pantone": "3375C"
+		},
+		{
+			"hex": "#00bbb5",
+			"pantone": "3262C"
+		},
+		{
+			"hex": "#145fc7",
+			"pantone": "2726C"
+		},
+		{
+			"hex": "#ffb238",
+			"pantone": "143C"
+		},
+		{
+			"hex": "#ff8200",
+			"pantone": "151C"
+		},
+		{
+			"hex": "#ff6b36",
+			"pantone": "1645C"
+		},
+		{
+			"hex": "#ea4360",
+			"pantone": "198C"
+		},
+		{
+			"hex": "#ec2275",
+			"pantone": "213C"
+		},
+		{
+			"hex": "#ee43a9",
+			"pantone": "232C"
+		},
+		{
+			"hex": "#d83eb2",
+			"pantone": "2385C"
+		},
+		{
+			"hex": "#86cfff",
+			"pantone": "265C"
+		},
+		{
+			"hex": "#fceea3",
+			"pantone": "Yellow 0131C"
+		},
+		{
+			"hex": "#fada00",
+			"pantone": "3965C"
+		},
+		{
+			"hex": "#eede00",
+			"pantone": "396C"
+		},
+		{
+			"hex": "#ffd900",
+			"pantone": "108C"
+		},
+		{
+			"hex": "#ffa700",
+			"pantone": "130C"
+		},
+		{
+			"hex": "#ef0027",
+			"pantone": "185C"
+		},
+		{
+			"hex": "#cd007a",
+			"pantone": "233C"
+		},
+		{
+			"hex": "#d80056",
+			"pantone": "Rubin Red C"
+		},
+		{
+			"hex": "#00ad44",
+			"pantone": "354C"
+		},
+		{
+			"hex": "#008066",
+			"pantone": "3288C"
+		},
+		{
+			"hex": "#008aac",
+			"pantone": "3135C"
+		},
+		{
+			"hex": "#0090be",
+			"pantone": "313C"
+		},
+		{
+			"hex": "#0066a0",
+			"pantone": "641C"
+		},
+		{
+			"hex": "#005fb9",
+			"pantone": "300C"
+		},
+		{
+			"hex": "#004aba",
+			"pantone": "2728C"
+		},
+		{
+			"hex": "#53168b",
+			"pantone": "2597C"
+		},
+		{
+			"hex": "#909c9d",
+			"pantone": "443C"
+		},
+		{
+			"hex": "#5089b4",
+			"pantone": "646C"
+		},
+		{
+			"hex": "#49748a",
+			"pantone": "5405C"
+		},
+		{
+			"hex": "#6a6058",
+			"pantone": "405C"
+		},
+		{
+			"hex": "#003b70",
+			"pantone": "654C"
+		},
+		{
+			"hex": "#003056",
+			"pantone": "540C"
+		},
+		{
+			"hex": "#2d5035",
+			"pantone": "350C"
+		},
+		{
+			"hex": "#004e59",
+			"pantone": "3165C"
+		},
+		{
+			"hex": "#a97300",
+			"pantone": "132C"
+		},
+		{
+			"hex": "#773d29",
+			"pantone": "478C"
+		},
+		{
+			"hex": "#903a19",
+			"pantone": "7526C"
+		},
+		{
+			"hex": "#8d2431",
+			"pantone": "202C"
+		},
+		{
+			"hex": "#812345",
+			"pantone": "216C"
+		},
+		{
+			"hex": "#5f2366",
+			"pantone": "2623C"
+		},
+		{
+			"hex": "#163029",
+			"pantone": "5535C"
+		},
+		{
+			"hex": "#001b2b",
+			"pantone": "296C"
+		},
+		{
+			"hex": "#a97300",
+			"pantone": "132C"
+		},
+		{
+			"hex": "#988a17",
+			"pantone": "582C"
+		},
+		{
+			"hex": "#596123",
+			"pantone": "371C"
+		},
+		{
+			"hex": "#235a41",
+			"pantone": "554C"
+		},
+		{
+			"hex": "#004d43",
+			"pantone": "3305C"
+		},
+		{
+			"hex": "#673334",
+			"pantone": "1817C"
+		},
+		{
+			"hex": "#59325e",
+			"pantone": "519C"
+		},
+		{
+			"hex": "#171746",
+			"pantone": "275C"
+		},
+		{
+			"hex": "#c14600",
+			"pantone": "1525C"
+		},
+		{
+			"hex": "#ae172b",
+			"pantone": "187C"
+		},
+		{
+			"hex": "#af0a3d",
+			"pantone": "1945C"
+		},
+		{
+			"hex": "#980047",
+			"pantone": "221C"
+		},
+		{
+			"hex": "#8b264f",
+			"pantone": "7435C"
+		},
+		{
+			"hex": "#773d29",
+			"pantone": "478C"
+		},
+		{
+			"hex": "#86322d",
+			"pantone": "181C"
+		},
+		{
+			"hex": "#673334",
+			"pantone": "1817C"
+		},
+		{
+			"hex": "#fcfbf0",
+			"pantone": "1-9C"
+		},
+		{
+			"hex": "#e4c9a3",
+			"pantone": "468C"
+		},
+		{
+			"hex": "#cdb684",
+			"pantone": "4525C"
+		},
+		{
+			"hex": "#ceb000",
+			"pantone": "7759C"
+		},
+		{
+			"hex": "#9a8b87",
+			"pantone": "408C"
+		},
+		{
+			"hex": "#867770",
+			"pantone": "Warm Gray9C"
+		},
+		{
+			"hex": "#67503d",
+			"pantone": "7532C"
+		},
+		{
+			"hex": "#453635",
+			"pantone": "439C"
+		},
+		{
+			"hex": "#d1d2d4",
+			"pantone": "427C"
+		},
+		{
+			"hex": "#a3a9ad",
+			"pantone": "429C"
+		},
+		{
+			"hex": "#748593",
+			"pantone": "7544C"
+		},
+		{
+			"hex": "#7c858c",
+			"pantone": "430C"
+		},
+		{
+			"hex": "#5a6670",
+			"pantone": "431C"
+		},
+		{
+			"hex": "#53524a",
+			"pantone": "418C"
+		},
+		{
+			"hex": "#392e2c",
+			"pantone": "412C"
+		},
+		{
+			"hex": "#0f1e28",
+			"pantone": "7547C"
+		}
+	],
+	"linecolors": [
+		{
+			"hex": "#FEFDF4",
+			"pantone": 7520
+		},
+		{
+			"hex": "#CFD2D3",
+			"pantone": 6714
+		},
+		{
+			"hex": "#BAC4C2",
+			"pantone": 6014
+		},
+		{
+			"hex": "#7A848B",
+			"pantone": 6804
+		},
+		{
+			"hex": "#5A656F",
+			"pantone": 6069
+		},
+		{
+			"hex": "#515249",
+			"pantone": 6074
+		},
+		{
+			"hex": "#021B2B",
+			"pantone": 1068
+		},
+		{
+			"hex": "#5F504D",
+			"pantone": 2165
+		},
+		{
+			"hex": "#83776F",
+			"pantone": 2839
+		},
+		{
+			"hex": "#978B86",
+			"pantone": 2833
+		},
+		{
+			"hex": "#C4BAB5",
+			"pantone": 6377
+		},
+		{
+			"hex": "#CBB2A6",
+			"pantone": 2761
+		},
+		{
+			"hex": "#EED7B0",
+			"pantone": 1217
+		},
+		{
+			"hex": "#DAC6A1",
+			"pantone": 1250
+		},
+		{
+			"hex": "#DDB4A3",
+			"pantone": 1246
+		},
+		{
+			"hex": "#DBB37C",
+			"pantone": 1241
+		},
+		{
+			"hex": "#AD8777",
+			"pantone": 2201
+		},
+		{
+			"hex": "#AB7A57",
+			"pantone": 2170
+		},
+		{
+			"hex": "#EDD8E8",
+			"pantone": 5039
+		},
+		{
+			"hex": "#F1BFC7",
+			"pantone": 5076
+		},
+		{
+			"hex": "#E55E73",
+			"pantone": 5749
+		},
+		{
+			"hex": "#ED7C84",
+			"pantone": 5079
+		},
+		{
+			"hex": "#F0876A",
+			"pantone": 5501
+		},
+		{
+			"hex": "#D8276F",
+			"pantone": 5019
+		},
+		{
+			"hex": "#BA4795",
+			"pantone": 5150
+		},
+		{
+			"hex": "#BB0073",
+			"pantone": 5017
+		},
+		{
+			"hex": "#DA0E2B",
+			"pantone": 5065
+		},
+		{
+			"hex": "#A21F2C",
+			"pantone": 5072
+		},
+		{
+			"hex": "#7B2243",
+			"pantone": 5106
+		},
+		{
+			"hex": "#633233",
+			"pantone": 5202
+		},
+		{
+			"hex": "#EAE49A",
+			"pantone": 7096
+		},
+		{
+			"hex": "#E1D300",
+			"pantone": 7882
+		},
+		{
+			"hex": "#F5D300",
+			"pantone": 7269
+		},
+		{
+			"hex": "#EBAD39",
+			"pantone": 1177
+		},
+		{
+			"hex": "#EF7F1A",
+			"pantone": 5030
+		},
+		{
+			"hex": "#EC693D",
+			"pantone": 5037
+		},
+		{
+			"hex": "#B24922",
+			"pantone": 2105
+		},
+		{
+			"hex": "#8B5827",
+			"pantone": 2101
+		},
+		{
+			"hex": "#9D7225",
+			"pantone": 7987
+		},
+		{
+			"hex": "#C3D400",
+			"pantone": 4807
+		},
+		{
+			"hex": "#8C892A",
+			"pantone": 4842
+		},
+		{
+			"hex": "#9EA066",
+			"pantone": 4300
+		},
+		{
+			"hex": "#888949",
+			"pantone": 4451
+		},
+		{
+			"hex": "#696E2E",
+			"pantone": 4456
+		},
+		{
+			"hex": "#B3C9C0",
+			"pantone": 3460
+		},
+		{
+			"hex": "#96B5AA",
+			"pantone": 3183
+		},
+		{
+			"hex": "#7DC7B2",
+			"pantone": 4552
+		},
+		{
+			"hex": "#00A882",
+			"pantone": 4533
+		},
+		{
+			"hex": "#00A142",
+			"pantone": 4055
+		},
+		{
+			"hex": "#1D583F",
+			"pantone": 4263
+		},
+		{
+			"hex": "#004C56",
+			"pantone": 4484
+		},
+		{
+			"hex": "#BBD0E2",
+			"pantone": 3834
+		},
+		{
+			"hex": "#BBC1D6",
+			"pantone": 3084
+		},
+		{
+			"hex": "#62C3D2",
+			"pantone": 3030
+		},
+		{
+			"hex": "#00A9A4",
+			"pantone": 4244
+		},
+		{
+			"hex": "#5984AC",
+			"pantone": 3194
+		},
+		{
+			"hex": "#00839E",
+			"pantone": 3070
+		},
+		{
+			"hex": "#4B7187",
+			"pantone": 3199
+		},
+		{
+			"hex": "#00499E",
+			"pantone": 3400
+		},
+		{
+			"hex": "#1D1F42",
+			"pantone": 3476
+		},
+		{
+			"hex": "#DBD8E7",
+			"pantone": 3516
+		},
+		{
+			"hex": "#D4C1DE",
+			"pantone": 5301
+		},
+		{
+			"hex": "#8161A7",
+			"pantone": 5310
+		},
+		{
+			"hex": "#54207E",
+			"pantone": 5777
+		},
+		{
+			"hex": "#58305C",
+			"pantone": 5153
+		},
+		{
+			"hex": "#837FBB",
+			"pantone": 5844
+		}
+	],
+	"banner": [
+		"aurora/tex/banner1_v2.jpg",
+		"aurora/tex/banner2_v2.jpg",
+		"aurora/tex/banner3_v2.jpg",
+		"aurora/tex/banner4_v2.jpg",
+		"aurora/tex/banner5_v2.jpg"
+	],
+	"sizeText": "※サイズ調整テープ付きですので約 1cm～2cm のサイズ調整が可能です。<br>※同じデザインでサイズ違いも同時にご注文をご希望の場合、<br>&nbsp;&nbsp;&nbsp;こちらで複数のサイズをご選択ください。<br>&nbsp;&nbsp;&nbsp;数量の追加などは購入画面で変更可能です。"
+}
