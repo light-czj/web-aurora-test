@@ -687,10 +687,10 @@
 					"id": "silkA",
 					"filter": "タ一タン_チェック",
 					"gallery": 6,
-					"images": [
-						"aurora/tex/shop/scarf/1.png"
-					],
 					"text": "スクエア 88cm×88cm",
+					"images": [
+						"aurora/tex/aurora_scarf_1.png"
+					],
 					"type2dList": [
 						"fonts"
 					],
@@ -708,10 +708,10 @@
 					"id": "silkE",
 					"filter": "タ一タン_チェック",
 					"gallery": 6,
-					"images": [
-						"aurora/tex/shop/scarf/2.png"
-					],
 					"text": "ロング 53cm×180cm",
+					"images": [
+						"aurora/tex/aurora_scarf_2.png"
+					],
 					"type2dList": [
 						"fonts"
 					],
@@ -729,73 +729,10 @@
 					"id": "silkD",
 					"filter": "タ一タン_チェック",
 					"gallery": 6,
-					"images": [
-						"aurora/tex/shop/scarf/3.png"
-					],
 					"text": "プチスクエア 53cm×53cm",
-					"type2dList": [
-						"fonts"
-					],
-					"designid": "A2",
-					"defaultTexture": {
-						"umb": "aurora/tex/A2"
-					},
-					"product": "scarf",
-					"price": 3500,
-					"title": "仕様をチェック A",
-					"subtitle": "",
-					"checkbox": false
-				},
-				{
-					"id": "silkA1",
-					"filter": "タ一タン_チェック",
-					"gallery": 6,
 					"images": [
-						"aurora/tex/shop/scarf/4_v1.png"
+						"aurora/tex/aurora_scarf_3.png"
 					],
-					"text": "スクエア 88cm×88cm",
-					"type2dList": [
-						"fonts"
-					],
-					"designid": "A2",
-					"defaultTexture": {
-						"umb": "aurora/tex/A2"
-					},
-					"product": "scarf",
-					"price": 5000,
-					"title": "仕様をチェック A",
-					"subtitle": "",
-					"checkbox": false
-				},
-				{
-					"id": "silkE1",
-					"filter": "タ一タン_チェック",
-					"gallery": 6,
-					"images": [
-						"aurora/tex/shop/scarf/5_v1.png"
-					],
-					"text": "ロング 53cm×180cm",
-					"type2dList": [
-						"fonts"
-					],
-					"designid": "B2",
-					"defaultTexture": {
-						"umb": "aurora/tex/B2"
-					},
-					"product": "scarf",
-					"price": 5000,
-					"title": "仕様をチェック A",
-					"subtitle": "",
-					"checkbox": false
-				},
-				{
-					"id": "silkD1",
-					"filter": "タ一タン_チェック",
-					"gallery": 6,
-					"images": [
-						"aurora/tex/shop/scarf/6_v1.png"
-					],
-					"text": "プチスクエア 53cm×53cm",
 					"type2dList": [
 						"fonts"
 					],
