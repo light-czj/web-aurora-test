@@ -128,6 +128,16 @@ async function createScarfPatch (w, h, e, type, isEdge, index) {
   mask.drawScarfPatch(manager.output / 2, manager.output / 2, w, h, e, type, isEdge, index)
   mask.endFill()
 
+  // 白色背景
+  const whiteBg = new window.PIXI.Sprite(window.PIXI.Texture.WHITE)
+  whiteBg.width = manager.output
+  whiteBg.height = manager.output
+  whiteBg.x = manager.output / 2
+  whiteBg.y = manager.output / 2
+  whiteBg.anchor.set(0.5)
+  whiteBg.mask = mask
+  panel.addChild(whiteBg)
+
   tilingSprite._type = 'scarf'
   tilingSprite.entity = entity
   tilingSprite.mask = mask

@@ -264,6 +264,16 @@ async function addUmbPatch (
   mask.endFill()
   panel.addChild(mask)
 
+  // 白色背景
+  const whiteBg = new window.PIXI.Sprite(window.PIXI.Texture.WHITE)
+  whiteBg.width = manager.output
+  whiteBg.height = manager.output
+  whiteBg.x = manager.output / 2
+  whiteBg.y = manager.output / 2
+  whiteBg.anchor.set(0.5)
+  whiteBg.mask = mask
+  panel.addChild(whiteBg)
+
   var texture = await loadTexture(path, entity.texture)
   var tilingSprite = new PIXI.TilingSprite(
     texture,
